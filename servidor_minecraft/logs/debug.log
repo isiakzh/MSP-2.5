@@ -18217,3 +18217,1048 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Mar2025 03:07:32.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [issia_kzh: Gave 1 [Humanoid Target] to issia_kzh]
 [22Mar2025 03:08:24.143] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
 [22Mar2025 03:08:24.143] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[22Mar2025 03:09:08.454] [IO-Worker-56/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[22Mar2025 03:09:43.694] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
+[22Mar2025 03:09:43.697] [Server thread/DEBUG] [pointblank/]: Created {vi: 1596303784, path: 53655621-38b6-4cea-bb17-f991bfee84e5, elements: {AttachmentCategory[stock]={vi: 1758186202, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[scope]={vi: 1110769796, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[muzzle]={vi: 1767067685, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}}} with stack: 1 glock18, tag {GeckoLibID:5L,aim:0b,ammo:0,ammox:{},fmid:[I;-2003212435,1528119213,-1447685183,-1702923800],lid:-4965225659767028507L,mid:6009303978481175786L,sa:{scope:"/"},seed:-5007572491238140360L}, elements: {AttachmentCategory[stock]={vi: 1758186202, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[scope]={vi: 1110769796, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[muzzle]={vi: 1767067685, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}}
+[22Mar2025 03:09:43.698] [Server thread/DEBUG] [pointblank/]: Created container 0
+[22Mar2025 03:09:43.698] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #0 id: 1988044160, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #0 id: 1988044160, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #0 id: 1988044160, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #0 id: 1988044160, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #0 id: 1988044160, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #0 id: 1988044160, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 7 to container {Container #0 id: 1988044160, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 8 to container {Container #0 id: 1988044160, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 9 to container {Container #0 id: 1988044160, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 10 to container {Container #0 id: 1988044160, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 11 to container {Container #0 id: 1988044160, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Created container 1
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #1 id: 1233698206, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #1 id: 1233698206, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #1 id: 1233698206, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #1 id: 1233698206, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #1 id: 1233698206, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #1 id: 1233698206, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Created container 2
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #2 id: 1681307691, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #2 id: 1681307691, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #2 id: 1681307691, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #2 id: 1681307691, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #2 id: 1681307691, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #2 id: 1681307691, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Created container 3
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #3 id: 1939342553, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #3 id: 1939342553, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #3 id: 1939342553, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #3 id: 1939342553, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #3 id: 1939342553, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #3 id: 1939342553, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Created container 4
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #4 id: 2084862991, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #4 id: 2084862991, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #4 id: 2084862991, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #4 id: 2084862991, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #4 id: 2084862991, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #4 id: 2084862991, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.699] [Server thread/DEBUG] [pointblank/]: Created container 5
+[22Mar2025 03:09:43.700] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #5 id: 1881950804, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.700] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #5 id: 1881950804, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.700] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #5 id: 1881950804, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.700] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #5 id: 1881950804, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.700] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #5 id: 1881950804, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.700] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #5 id: 1881950804, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.700] [Server thread/DEBUG] [pointblank/]: Created container 6
+[22Mar2025 03:09:43.700] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #6 id: 562709402, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.700] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #6 id: 562709402, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.700] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #6 id: 562709402, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.700] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #6 id: 562709402, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.700] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #6 id: 562709402, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.700] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #6 id: 562709402, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.700] [Server thread/DEBUG] [pointblank/]: Created container 7
+[22Mar2025 03:09:43.700] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #7 id: 310846910, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.700] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #7 id: 310846910, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.700] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #7 id: 310846910, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.700] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #7 id: 310846910, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.700] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #7 id: 310846910, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.700] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #7 id: 310846910, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.701] [Server thread/DEBUG] [pointblank/]: Created container 8
+[22Mar2025 03:09:43.701] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #8 id: 1308395493, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.701] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #8 id: 1308395493, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.701] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #8 id: 1308395493, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.701] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #8 id: 1308395493, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.701] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #8 id: 1308395493, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.701] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #8 id: 1308395493, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.701] [Server thread/DEBUG] [pointblank/]: Created container 9
+[22Mar2025 03:09:43.701] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #9 id: 1594886884, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.701] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #9 id: 1594886884, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.701] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #9 id: 1594886884, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.701] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #9 id: 1594886884, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.701] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #9 id: 1594886884, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.701] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #9 id: 1594886884, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.701] [Server thread/DEBUG] [pointblank/]: Updating attachment slots for inventory {vi: 1596303784, path: 53655621-38b6-4cea-bb17-f991bfee84e5, elements: {AttachmentCategory[stock]={vi: 1758186202, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[scope]={vi: 1110769796, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[muzzle]={vi: 1767067685, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}}} for container 0
+[22Mar2025 03:09:43.701] [Server thread/DEBUG] [pointblank/]: Creating a slot mapping for key 53655621-38b6-4cea-bb17-f991bfee84e5 in inventory {vi: 1596303784, path: 53655621-38b6-4cea-bb17-f991bfee84e5, elements: {AttachmentCategory[stock]={vi: 1758186202, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[scope]={vi: 1110769796, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[muzzle]={vi: 1767067685, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}}}
+[22Mar2025 03:09:43.701] [Server thread/DEBUG] [pointblank/]: Created a slot mapping for key 53655621-38b6-4cea-bb17-f991bfee84e5 in inventory {vi: 1596303784, path: 53655621-38b6-4cea-bb17-f991bfee84e5, elements: {AttachmentCategory[stock]={vi: 1758186202, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[scope]={vi: 1110769796, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[muzzle]={vi: 1767067685, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}}}. Here it is: {}
+[22Mar2025 03:09:43.701] [Server thread/DEBUG] [pointblank/]: Setting item 0 in container {Container #0 id: 1988044160, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 1 glock18 with tag {GeckoLibID:5L,aim:0b,ammo:0,ammox:{},fmid:[I;-2003212435,1528119213,-1447685183,-1702923800],lid:-4965225659767028507L,mid:6009303978481175786L,sa:{scope:"/"},seed:-5007572491238140360L}
+[22Mar2025 03:09:43.702] [Server thread/DEBUG] [pointblank/]: Setting item 1 in container {Container #0 id: 1988044160, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 0 air with tag null
+[22Mar2025 03:09:43.702] [Server thread/DEBUG] [pointblank/]: Updated slot #1 in container {Container #0 id: 1988044160, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } with empty item 0 air
+[22Mar2025 03:09:43.702] [Server thread/DEBUG] [pointblank/]: Changing status for slot 1 in container {Container #0 id: 1988044160, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to true,
+[22Mar2025 03:09:43.702] [Server thread/DEBUG] [pointblank/]: Setting item 2 in container {Container #0 id: 1988044160, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 0 air with tag null
+[22Mar2025 03:09:43.702] [Server thread/DEBUG] [pointblank/]: Updated slot #2 in container {Container #0 id: 1988044160, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } with empty item 0 air
+[22Mar2025 03:09:43.702] [Server thread/DEBUG] [pointblank/]: Changing status for slot 2 in container {Container #0 id: 1988044160, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to true,
+[22Mar2025 03:09:43.702] [Server thread/DEBUG] [pointblank/]: Setting item 3 in container {Container #0 id: 1988044160, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 0 air with tag null
+[22Mar2025 03:09:43.702] [Server thread/DEBUG] [pointblank/]: Updated slot #3 in container {Container #0 id: 1988044160, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } with empty item 0 air
+[22Mar2025 03:09:43.702] [Server thread/DEBUG] [pointblank/]: Changing status for slot 3 in container {Container #0 id: 1988044160, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to true,
+[22Mar2025 03:09:43.702] [Server thread/DEBUG] [pointblank/]: Container active attachment count: 3 in container {Container #0 id: 1988044160, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:43.702] [Server thread/DEBUG] [pointblank/]: Updated attachment slots for container {Container #0 id: 1988044160, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:45.218] [Server thread/DEBUG] [pointblank/]: Setting attachment slot 1 for container {Container #0 id: 1988044160, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 1 glockstock with tag {}
+[22Mar2025 03:09:45.218] [Server thread/DEBUG] [pointblank/]: Setting item 1 in container {Container #0 id: 1988044160, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 1 glockstock with tag {}
+[22Mar2025 03:09:45.218] [Server thread/DEBUG] [pointblank/]: Virtual inventory {vi: 1596303784, path: 53655621-38b6-4cea-bb17-f991bfee84e5, elements: {AttachmentCategory[stock]={vi: 1758186202, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[scope]={vi: 1110769796, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[muzzle]={vi: 1767067685, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}}} handling changes in container {Container #0 id: 1988044160, items: [1 glock18, 1 glockstock, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }, stack tags {GeckoLibID:5L,aim:0b,ammo:0,ammox:{},fmid:[I;-2003212435,1528119213,-1447685183,-1702923800],lid:-4965225659767028507L,mid:6009303978481175786L,sa:{scope:"/"},seed:-5007572491238140360L}
+[22Mar2025 03:09:45.219] [Server thread/DEBUG] [pointblank/]: Adding attachment '1 glockstock' from slot 1 with tag {} to stack '1 glock18'
+[22Mar2025 03:09:45.219] [Server thread/DEBUG] [pointblank/]: Added new attachment '1 glockstock' from slot 1 with tag {} to stack '1 glock18' with tag {GeckoLibID:5L,aim:0b,ammo:0,ammox:{},as:[{id:"pointblank:glockstock",rmv:1b}],fmid:[I;-2003212435,1528119213,-1447685183,-1702923800],lid:-4965225659767028507L,mid:6009303978481175786L,sa:{scope:"/"},seed:-5007572491238140360L} and path {}
+[22Mar2025 03:09:45.219] [Server thread/DEBUG] [pointblank/]: Created {vi: 1224473125, path: 53655621-38b6-4cea-bb17-f991bfee84e5/glockstock, elements: {}} with stack: 1 glockstock, tag {}, elements: {}
+[22Mar2025 03:09:45.219] [Server thread/DEBUG] [pointblank/]: Updating attachment slots for inventory {vi: 1596303784, path: 53655621-38b6-4cea-bb17-f991bfee84e5, elements: {AttachmentCategory[stock]={vi: 1224473125, path: 53655621-38b6-4cea-bb17-f991bfee84e5/glockstock, elements: {}}, AttachmentCategory[scope]={vi: 1110769796, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[muzzle]={vi: 1767067685, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}}} for container 0
+[22Mar2025 03:09:45.219] [Server thread/DEBUG] [pointblank/]: Setting item 0 in container {Container #0 id: 1988044160, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 1 glock18 with tag {GeckoLibID:5L,aim:0b,ammo:0,ammox:{},as:[{id:"pointblank:glockstock",rmv:1b}],fmid:[I;-2003212435,1528119213,-1447685183,-1702923800],lid:-4965225659767028507L,mid:6009303978481175786L,sa:{scope:"/"},seed:-5007572491238140360L}
+[22Mar2025 03:09:45.219] [Server thread/DEBUG] [pointblank/]: Setting item 1 in container {Container #0 id: 1988044160, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 1 glockstock with tag {}
+[22Mar2025 03:09:45.220] [Server thread/DEBUG] [pointblank/]: Updated slot #1 in container {Container #0 id: 1988044160, items: [1 glock18, 1 glockstock, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } with item 1 glockstock
+[22Mar2025 03:09:45.220] [Server thread/DEBUG] [pointblank/]: Setting item 2 in container {Container #0 id: 1988044160, items: [1 glock18, 1 glockstock, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 0 air with tag null
+[22Mar2025 03:09:45.220] [Server thread/DEBUG] [pointblank/]: Updated slot #2 in container {Container #0 id: 1988044160, items: [1 glock18, 1 glockstock, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } with empty item 0 air
+[22Mar2025 03:09:45.220] [Server thread/DEBUG] [pointblank/]: Setting item 3 in container {Container #0 id: 1988044160, items: [1 glock18, 1 glockstock, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 0 air with tag null
+[22Mar2025 03:09:45.220] [Server thread/DEBUG] [pointblank/]: Updated slot #3 in container {Container #0 id: 1988044160, items: [1 glock18, 1 glockstock, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } with empty item 0 air
+[22Mar2025 03:09:45.220] [Server thread/DEBUG] [pointblank/]: Container active attachment count: 3 in container {Container #0 id: 1988044160, items: [1 glock18, 1 glockstock, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:45.220] [Server thread/DEBUG] [pointblank/]: Updated attachment slots for container {Container #0 id: 1988044160, items: [1 glock18, 1 glockstock, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:09:45.222] [Server thread/DEBUG] [pointblank/]: Virtual inventory {vi: 1596303784, path: 53655621-38b6-4cea-bb17-f991bfee84e5, elements: {AttachmentCategory[stock]={vi: 1224473125, path: 53655621-38b6-4cea-bb17-f991bfee84e5/glockstock, elements: {}}, AttachmentCategory[scope]={vi: 1110769796, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[muzzle]={vi: 1767067685, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}}} handled changes for container {Container #0 id: 1988044160, items: [1 glock18, 1 glockstock, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }, stack tags {GeckoLibID:5L,aim:0b,ammo:0,ammox:{},as:[{id:"pointblank:glockstock",rmv:1b}],fmid:[I;-2003212435,1528119213,-1447685183,-1702923800],lid:-4965225659767028507L,mid:6009303978481175786L,sa:{scope:"/"},seed:-5007572491238140360L}
+[22Mar2025 03:09:53.545] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2066048401 to 20
+[22Mar2025 03:09:55.498] [Server thread/DEBUG] [pointblank/]: 95498 handling client fire request
+[22Mar2025 03:09:55.498] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2066048401 to 19
+[22Mar2025 03:09:55.499] [Server thread/DEBUG] [pointblank/]: 95499 - obtained hit result in 0ms
+[22Mar2025 03:09:55.499] [Server thread/DEBUG] [pointblank/]: 95499 obtained hit results
+[22Mar2025 03:09:55.499] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@75fc7127
+[22Mar2025 03:09:55.499] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36]
+[22Mar2025 03:09:55.568] [Server thread/DEBUG] [pointblank/]: 95568 handling client fire request
+[22Mar2025 03:09:55.568] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2066048401 to 18
+[22Mar2025 03:09:55.568] [Server thread/DEBUG] [pointblank/]: 95568 - obtained hit result in 0ms
+[22Mar2025 03:09:55.568] [Server thread/DEBUG] [pointblank/]: 95568 obtained hit results
+[22Mar2025 03:09:55.568] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7a064888
+[22Mar2025 03:09:55.569] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36]
+[22Mar2025 03:09:55.646] [Server thread/DEBUG] [pointblank/]: 95646 handling client fire request
+[22Mar2025 03:09:55.646] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2066048401 to 17
+[22Mar2025 03:09:55.647] [Server thread/DEBUG] [pointblank/]: 95646 - obtained hit result in 0ms
+[22Mar2025 03:09:55.647] [Server thread/DEBUG] [pointblank/]: 95647 obtained hit results
+[22Mar2025 03:09:55.647] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2d68abaf
+[22Mar2025 03:09:55.647] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36]
+[22Mar2025 03:09:55.742] [Server thread/DEBUG] [pointblank/]: 95742 handling client fire request
+[22Mar2025 03:09:55.742] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2066048401 to 16
+[22Mar2025 03:09:55.742] [Server thread/DEBUG] [pointblank/]: 95742 - obtained hit result in 0ms
+[22Mar2025 03:09:55.742] [Server thread/DEBUG] [pointblank/]: 95742 obtained hit results
+[22Mar2025 03:09:55.742] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@62787e55
+[22Mar2025 03:09:55.742] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36]
+[22Mar2025 03:09:55.842] [Server thread/DEBUG] [pointblank/]: 95842 handling client fire request
+[22Mar2025 03:09:55.842] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2066048401 to 15
+[22Mar2025 03:09:55.842] [Server thread/DEBUG] [pointblank/]: 95842 - obtained hit result in 0ms
+[22Mar2025 03:09:55.842] [Server thread/DEBUG] [pointblank/]: 95842 obtained hit results
+[22Mar2025 03:09:55.842] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3c911a67
+[22Mar2025 03:09:55.843] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36]
+[22Mar2025 03:09:55.893] [Server thread/DEBUG] [pointblank/]: 95893 handling client fire request
+[22Mar2025 03:09:55.893] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2066048401 to 14
+[22Mar2025 03:09:55.893] [Server thread/DEBUG] [pointblank/]: 95893 - obtained hit result in 0ms
+[22Mar2025 03:09:55.893] [Server thread/DEBUG] [pointblank/]: 95893 obtained hit results
+[22Mar2025 03:09:55.893] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@544ceb89
+[22Mar2025 03:09:55.893] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36]
+[22Mar2025 03:09:55.992] [Server thread/DEBUG] [pointblank/]: 95992 handling client fire request
+[22Mar2025 03:09:55.993] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2066048401 to 13
+[22Mar2025 03:09:55.993] [Server thread/DEBUG] [pointblank/]: 95993 - obtained hit result in 0ms
+[22Mar2025 03:09:55.993] [Server thread/DEBUG] [pointblank/]: 95993 obtained hit results
+[22Mar2025 03:09:55.993] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7567bd83
+[22Mar2025 03:09:55.993] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36]
+[22Mar2025 03:09:56.059] [Server thread/DEBUG] [pointblank/]: 96059 handling client fire request
+[22Mar2025 03:09:56.059] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2066048401 to 12
+[22Mar2025 03:09:56.059] [Server thread/DEBUG] [pointblank/]: 96059 - obtained hit result in 0ms
+[22Mar2025 03:09:56.059] [Server thread/DEBUG] [pointblank/]: 96059 obtained hit results
+[22Mar2025 03:09:56.059] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5ba1a5b5
+[22Mar2025 03:09:56.059] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36]
+[22Mar2025 03:09:56.142] [Server thread/DEBUG] [pointblank/]: 96142 handling client fire request
+[22Mar2025 03:09:56.142] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2066048401 to 11
+[22Mar2025 03:09:56.142] [Server thread/DEBUG] [pointblank/]: 96142 - obtained hit result in 0ms
+[22Mar2025 03:09:56.142] [Server thread/DEBUG] [pointblank/]: 96142 obtained hit results
+[22Mar2025 03:09:56.142] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6fd7de84
+[22Mar2025 03:09:56.142] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36]
+[22Mar2025 03:09:56.242] [Server thread/DEBUG] [pointblank/]: 96242 handling client fire request
+[22Mar2025 03:09:56.242] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2066048401 to 10
+[22Mar2025 03:09:56.243] [Server thread/DEBUG] [pointblank/]: 96243 - obtained hit result in 0ms
+[22Mar2025 03:09:56.243] [Server thread/DEBUG] [pointblank/]: 96243 obtained hit results
+[22Mar2025 03:09:56.243] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@42edc6c2
+[22Mar2025 03:09:56.243] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36]
+[22Mar2025 03:09:56.293] [Server thread/DEBUG] [pointblank/]: 96293 handling client fire request
+[22Mar2025 03:09:56.293] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2066048401 to 9
+[22Mar2025 03:09:56.293] [Server thread/DEBUG] [pointblank/]: 96293 - obtained hit result in 0ms
+[22Mar2025 03:09:56.293] [Server thread/DEBUG] [pointblank/]: 96293 obtained hit results
+[22Mar2025 03:09:56.293] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@139f03e5
+[22Mar2025 03:09:56.294] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36]
+[22Mar2025 03:09:56.391] [Server thread/DEBUG] [pointblank/]: 96391 handling client fire request
+[22Mar2025 03:09:56.391] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2066048401 to 8
+[22Mar2025 03:09:56.391] [Server thread/DEBUG] [pointblank/]: 96391 - obtained hit result in 0ms
+[22Mar2025 03:09:56.391] [Server thread/DEBUG] [pointblank/]: 96391 obtained hit results
+[22Mar2025 03:09:56.391] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6c96b712
+[22Mar2025 03:09:56.391] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36]
+[22Mar2025 03:09:56.457] [Server thread/DEBUG] [pointblank/]: 96457 handling client fire request
+[22Mar2025 03:09:56.457] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2066048401 to 7
+[22Mar2025 03:09:56.457] [Server thread/DEBUG] [pointblank/]: 96457 - obtained hit result in 0ms
+[22Mar2025 03:09:56.457] [Server thread/DEBUG] [pointblank/]: 96457 obtained hit results
+[22Mar2025 03:09:56.457] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@53ca41d
+[22Mar2025 03:09:56.457] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36]
+[22Mar2025 03:09:56.542] [Server thread/DEBUG] [pointblank/]: 96542 handling client fire request
+[22Mar2025 03:09:56.542] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2066048401 to 6
+[22Mar2025 03:09:56.542] [Server thread/DEBUG] [pointblank/]: 96542 - obtained hit result in 0ms
+[22Mar2025 03:09:56.542] [Server thread/DEBUG] [pointblank/]: 96542 obtained hit results
+[22Mar2025 03:09:56.542] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5c4bbd8f
+[22Mar2025 03:09:56.543] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36]
+[22Mar2025 03:09:56.642] [Server thread/DEBUG] [pointblank/]: 96642 handling client fire request
+[22Mar2025 03:09:56.642] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2066048401 to 5
+[22Mar2025 03:09:56.642] [Server thread/DEBUG] [pointblank/]: 96642 - obtained hit result in 0ms
+[22Mar2025 03:09:56.642] [Server thread/DEBUG] [pointblank/]: 96642 obtained hit results
+[22Mar2025 03:09:56.642] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1e13e310
+[22Mar2025 03:09:56.642] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36]
+[22Mar2025 03:09:56.756] [Server thread/DEBUG] [pointblank/]: 96756 handling client fire request
+[22Mar2025 03:09:56.756] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2066048401 to 4
+[22Mar2025 03:09:56.756] [Server thread/DEBUG] [pointblank/]: 96756 - obtained hit result in 0ms
+[22Mar2025 03:09:56.757] [Server thread/DEBUG] [pointblank/]: 96757 obtained hit results
+[22Mar2025 03:09:56.757] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2958d395
+[22Mar2025 03:09:56.757] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36]
+[22Mar2025 03:09:56.820] [Server thread/DEBUG] [pointblank/]: 96820 handling client fire request
+[22Mar2025 03:09:56.820] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2066048401 to 3
+[22Mar2025 03:09:56.820] [Server thread/DEBUG] [pointblank/]: 96820 - obtained hit result in 0ms
+[22Mar2025 03:09:56.820] [Server thread/DEBUG] [pointblank/]: 96820 obtained hit results
+[22Mar2025 03:09:56.820] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2852becd
+[22Mar2025 03:09:56.820] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.84, y=68.00, z=2.36]
+[22Mar2025 03:09:58.893] [Server thread/DEBUG] [pointblank/]: 98893 handling client fire request
+[22Mar2025 03:09:58.893] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2066048401 to 2
+[22Mar2025 03:09:58.894] [Server thread/DEBUG] [pointblank/]: 98894 - obtained hit result in 0ms
+[22Mar2025 03:09:58.894] [Server thread/DEBUG] [pointblank/]: 98894 obtained hit results
+[22Mar2025 03:09:58.894] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@957221f
+[22Mar2025 03:09:58.894] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1529.04, y=68.00, z=1.43] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1529.04, y=68.00, z=1.43]
+[22Mar2025 03:09:58.949] [Server thread/DEBUG] [pointblank/]: 98949 handling client fire request
+[22Mar2025 03:09:58.949] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2066048401 to 1
+[22Mar2025 03:09:58.949] [Server thread/DEBUG] [pointblank/]: 98949 - obtained hit result in 0ms
+[22Mar2025 03:09:58.949] [Server thread/DEBUG] [pointblank/]: 98949 obtained hit results
+[22Mar2025 03:09:58.949] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@46037d98
+[22Mar2025 03:09:58.949] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1529.26, y=68.00, z=1.43] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1529.26, y=68.00, z=1.43]
+[22Mar2025 03:09:59.046] [Server thread/DEBUG] [pointblank/]: 99046 handling client fire request
+[22Mar2025 03:09:59.046] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2066048401 to 0
+[22Mar2025 03:09:59.046] [Server thread/DEBUG] [pointblank/]: 99046 - obtained hit result in 0ms
+[22Mar2025 03:09:59.046] [Server thread/DEBUG] [pointblank/]: 99046 obtained hit results
+[22Mar2025 03:09:59.046] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7057a61a
+[22Mar2025 03:09:59.046] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1529.69, y=68.00, z=1.43] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1529.69, y=68.00, z=1.43]
+[22Mar2025 03:10:00.395] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2066048401 to 20
+[22Mar2025 03:10:03.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 03:10:03.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 03:10:08.043] [Server thread/DEBUG] [pointblank/]: 8043 handling client fire request
+[22Mar2025 03:10:08.043] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 225288542 to 19
+[22Mar2025 03:10:08.043] [Server thread/DEBUG] [pointblank/]: 8043 - obtained hit result in 0ms
+[22Mar2025 03:10:08.043] [Server thread/DEBUG] [pointblank/]: 8043 obtained hit results
+[22Mar2025 03:10:08.043] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@def1b38
+[22Mar2025 03:10:08.044] [Server thread/DEBUG] [pointblank/]: Creating state 53655621-38b6-4cea-bb17-f991bfee84e5
+[22Mar2025 03:10:08.045] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1530.44, y=68.00, z=2.07] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1530.44, y=68.00, z=2.07]
+[22Mar2025 03:10:08.100] [Server thread/DEBUG] [pointblank/]: 8100 handling client fire request
+[22Mar2025 03:10:08.100] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 225288542 to 18
+[22Mar2025 03:10:08.101] [Server thread/DEBUG] [pointblank/]: 8101 - obtained hit result in 0ms
+[22Mar2025 03:10:08.101] [Server thread/DEBUG] [pointblank/]: 8101 obtained hit results
+[22Mar2025 03:10:08.101] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@359f09e8
+[22Mar2025 03:10:08.101] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1530.44, y=68.00, z=2.07] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1530.44, y=68.00, z=2.07]
+[22Mar2025 03:10:08.196] [Server thread/DEBUG] [pointblank/]: 8196 handling client fire request
+[22Mar2025 03:10:08.196] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 225288542 to 17
+[22Mar2025 03:10:08.196] [Server thread/DEBUG] [pointblank/]: 8196 - obtained hit result in 0ms
+[22Mar2025 03:10:08.196] [Server thread/DEBUG] [pointblank/]: 8196 obtained hit results
+[22Mar2025 03:10:08.196] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4f715bc3
+[22Mar2025 03:10:08.196] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1530.44, y=68.00, z=2.07] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1530.44, y=68.00, z=2.07]
+[22Mar2025 03:10:08.996] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 225288542 to 20
+[22Mar2025 03:10:11.745] [Server thread/DEBUG] [pointblank/]: 11745 handling client fire request
+[22Mar2025 03:10:11.745] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 225288542 to 19
+[22Mar2025 03:10:11.745] [Server thread/DEBUG] [pointblank/]: 11745 - obtained hit result in 0ms
+[22Mar2025 03:10:11.745] [Server thread/DEBUG] [pointblank/]: 11745 obtained hit results
+[22Mar2025 03:10:11.745] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@57d0fb1f
+[22Mar2025 03:10:11.745] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1525.69, y=68.00, z=1.50] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1525.69, y=68.00, z=1.50]
+[22Mar2025 03:10:11.845] [Server thread/DEBUG] [pointblank/]: 11845 handling client fire request
+[22Mar2025 03:10:11.846] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 225288542 to 18
+[22Mar2025 03:10:11.846] [Server thread/DEBUG] [pointblank/]: 11846 - obtained hit result in 0ms
+[22Mar2025 03:10:11.846] [Server thread/DEBUG] [pointblank/]: 11846 obtained hit results
+[22Mar2025 03:10:11.846] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7a846185
+[22Mar2025 03:10:11.846] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1525.69, y=68.00, z=1.50] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1525.69, y=68.00, z=1.50]
+[22Mar2025 03:10:12.342] [Server thread/DEBUG] [pointblank/]: 12342 handling client fire request
+[22Mar2025 03:10:12.342] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 225288542 to 17
+[22Mar2025 03:10:12.342] [Server thread/DEBUG] [pointblank/]: 12342 - obtained hit result in 0ms
+[22Mar2025 03:10:12.342] [Server thread/DEBUG] [pointblank/]: 12342 obtained hit results
+[22Mar2025 03:10:12.342] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@483f906b
+[22Mar2025 03:10:12.342] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1525.69, y=68.00, z=1.50] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1525.69, y=68.00, z=1.50]
+[22Mar2025 03:10:12.397] [Server thread/DEBUG] [pointblank/]: 12397 handling client fire request
+[22Mar2025 03:10:12.397] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 225288542 to 16
+[22Mar2025 03:10:12.397] [Server thread/DEBUG] [pointblank/]: 12397 - obtained hit result in 0ms
+[22Mar2025 03:10:12.397] [Server thread/DEBUG] [pointblank/]: 12397 obtained hit results
+[22Mar2025 03:10:12.397] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@622231f4
+[22Mar2025 03:10:12.397] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1525.69, y=68.00, z=1.50] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1525.69, y=68.00, z=1.50]
+[22Mar2025 03:10:12.942] [Server thread/DEBUG] [pointblank/]: 12942 handling client fire request
+[22Mar2025 03:10:12.942] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 225288542 to 15
+[22Mar2025 03:10:12.942] [Server thread/DEBUG] [pointblank/]: 12942 - obtained hit result in 0ms
+[22Mar2025 03:10:12.942] [Server thread/DEBUG] [pointblank/]: 12942 obtained hit results
+[22Mar2025 03:10:12.942] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3b73ec7c
+[22Mar2025 03:10:12.942] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1525.69, y=68.00, z=1.50] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1525.69, y=68.00, z=1.50]
+[22Mar2025 03:10:12.995] [Server thread/DEBUG] [pointblank/]: 12995 handling client fire request
+[22Mar2025 03:10:12.995] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 225288542 to 14
+[22Mar2025 03:10:12.995] [Server thread/DEBUG] [pointblank/]: 12995 - obtained hit result in 0ms
+[22Mar2025 03:10:12.995] [Server thread/DEBUG] [pointblank/]: 12995 obtained hit results
+[22Mar2025 03:10:12.996] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5e7e9079
+[22Mar2025 03:10:12.996] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1525.69, y=68.00, z=1.50] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1525.69, y=68.00, z=1.50]
+[22Mar2025 03:10:13.094] [Server thread/DEBUG] [pointblank/]: 13094 handling client fire request
+[22Mar2025 03:10:13.094] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 225288542 to 13
+[22Mar2025 03:10:13.095] [Server thread/DEBUG] [pointblank/]: 13095 - obtained hit result in 0ms
+[22Mar2025 03:10:13.095] [Server thread/DEBUG] [pointblank/]: 13095 obtained hit results
+[22Mar2025 03:10:13.095] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6af6ff15
+[22Mar2025 03:10:13.095] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1525.69, y=68.00, z=1.50] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1525.69, y=68.00, z=1.50]
+[22Mar2025 03:10:13.152] [Server thread/DEBUG] [pointblank/]: 13152 handling client fire request
+[22Mar2025 03:10:13.152] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 225288542 to 12
+[22Mar2025 03:10:13.152] [Server thread/DEBUG] [pointblank/]: 13152 - obtained hit result in 0ms
+[22Mar2025 03:10:13.152] [Server thread/DEBUG] [pointblank/]: 13152 obtained hit results
+[22Mar2025 03:10:13.152] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@19a8de2e
+[22Mar2025 03:10:13.152] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1525.69, y=68.00, z=1.50] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1525.69, y=68.00, z=1.50]
+[22Mar2025 03:10:13.244] [Server thread/DEBUG] [pointblank/]: 13244 handling client fire request
+[22Mar2025 03:10:13.244] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 225288542 to 11
+[22Mar2025 03:10:13.244] [Server thread/DEBUG] [pointblank/]: 13244 - obtained hit result in 0ms
+[22Mar2025 03:10:13.244] [Server thread/DEBUG] [pointblank/]: 13244 obtained hit results
+[22Mar2025 03:10:13.244] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4a983852
+[22Mar2025 03:10:13.244] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1525.69, y=68.00, z=1.50] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1525.69, y=68.00, z=1.50]
+[22Mar2025 03:10:13.792] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 225288542 to 20
+[22Mar2025 03:10:15.543] [Server thread/DEBUG] [pointblank/]: Created {vi: 1339056700, path: 53655621-38b6-4cea-bb17-f991bfee84e5/glockstock, elements: {}} with stack: 1 glockstock, tag {id:"pointblank:glockstock",rmv:1b}, elements: {}
+[22Mar2025 03:10:15.543] [Server thread/DEBUG] [pointblank/]: Created {vi: 1400170996, path: 53655621-38b6-4cea-bb17-f991bfee84e5, elements: {AttachmentCategory[stock]={vi: 1339056700, path: 53655621-38b6-4cea-bb17-f991bfee84e5/glockstock, elements: {}}, AttachmentCategory[scope]={vi: 410761594, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[muzzle]={vi: 1417083339, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}}} with stack: 1 glock18, tag {GeckoLibID:5L,aim:0b,ammo:20,ammox:{},as:[{id:"pointblank:glockstock",rmv:1b}],fmid:[I;-2003212435,1528119213,-1447685183,-1702923800],lid:-4965225659767028507L,mid:6009303978481175786L,sa:{scope:"/"},seed:-5007572491238140360L}, elements: {AttachmentCategory[stock]={vi: 1339056700, path: 53655621-38b6-4cea-bb17-f991bfee84e5/glockstock, elements: {}}, AttachmentCategory[scope]={vi: 410761594, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[muzzle]={vi: 1417083339, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}}
+[22Mar2025 03:10:15.543] [Server thread/DEBUG] [pointblank/]: Created container 0
+[22Mar2025 03:10:15.543] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #0 id: 1794633394, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.543] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #0 id: 1794633394, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.543] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #0 id: 1794633394, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.543] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #0 id: 1794633394, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.543] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #0 id: 1794633394, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.543] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #0 id: 1794633394, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.543] [Server thread/DEBUG] [pointblank/]: Added attachment slot 7 to container {Container #0 id: 1794633394, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.543] [Server thread/DEBUG] [pointblank/]: Added attachment slot 8 to container {Container #0 id: 1794633394, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.543] [Server thread/DEBUG] [pointblank/]: Added attachment slot 9 to container {Container #0 id: 1794633394, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.543] [Server thread/DEBUG] [pointblank/]: Added attachment slot 10 to container {Container #0 id: 1794633394, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.543] [Server thread/DEBUG] [pointblank/]: Added attachment slot 11 to container {Container #0 id: 1794633394, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.543] [Server thread/DEBUG] [pointblank/]: Created container 1
+[22Mar2025 03:10:15.543] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #1 id: 797063935, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.543] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #1 id: 797063935, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.543] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #1 id: 797063935, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.543] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #1 id: 797063935, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.543] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #1 id: 797063935, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #1 id: 797063935, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Created container 2
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #2 id: 1280915045, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #2 id: 1280915045, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #2 id: 1280915045, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #2 id: 1280915045, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #2 id: 1280915045, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #2 id: 1280915045, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Created container 3
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #3 id: 382023273, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #3 id: 382023273, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #3 id: 382023273, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #3 id: 382023273, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #3 id: 382023273, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #3 id: 382023273, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Created container 4
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #4 id: 1133693053, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #4 id: 1133693053, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #4 id: 1133693053, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #4 id: 1133693053, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #4 id: 1133693053, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #4 id: 1133693053, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Created container 5
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #5 id: 2105100082, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #5 id: 2105100082, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #5 id: 2105100082, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #5 id: 2105100082, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #5 id: 2105100082, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #5 id: 2105100082, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Created container 6
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #6 id: 2023144678, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #6 id: 2023144678, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.544] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #6 id: 2023144678, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #6 id: 2023144678, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #6 id: 2023144678, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #6 id: 2023144678, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Created container 7
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #7 id: 1205844963, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #7 id: 1205844963, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #7 id: 1205844963, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #7 id: 1205844963, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #7 id: 1205844963, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #7 id: 1205844963, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Created container 8
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #8 id: 307970629, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #8 id: 307970629, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #8 id: 307970629, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #8 id: 307970629, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #8 id: 307970629, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #8 id: 307970629, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Created container 9
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #9 id: 632084459, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #9 id: 632084459, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #9 id: 632084459, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #9 id: 632084459, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #9 id: 632084459, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #9 id: 632084459, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Updating attachment slots for inventory {vi: 1400170996, path: 53655621-38b6-4cea-bb17-f991bfee84e5, elements: {AttachmentCategory[stock]={vi: 1339056700, path: 53655621-38b6-4cea-bb17-f991bfee84e5/glockstock, elements: {}}, AttachmentCategory[scope]={vi: 410761594, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[muzzle]={vi: 1417083339, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}}} for container 0
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Setting item 0 in container {Container #0 id: 1794633394, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 1 glock18 with tag {GeckoLibID:5L,aim:0b,ammo:20,ammox:{},as:[{id:"pointblank:glockstock",rmv:1b}],fmid:[I;-2003212435,1528119213,-1447685183,-1702923800],lid:-4965225659767028507L,mid:6009303978481175786L,sa:{scope:"/"},seed:-5007572491238140360L}
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Setting item 1 in container {Container #0 id: 1794633394, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 1 glockstock with tag {id:"pointblank:glockstock",rmv:1b}
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Updated slot #1 in container {Container #0 id: 1794633394, items: [1 glock18, 1 glockstock, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } with item 1 glockstock
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Changing status for slot 1 in container {Container #0 id: 1794633394, items: [1 glock18, 1 glockstock, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to true,
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Setting item 2 in container {Container #0 id: 1794633394, items: [1 glock18, 1 glockstock, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 0 air with tag null
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Updated slot #2 in container {Container #0 id: 1794633394, items: [1 glock18, 1 glockstock, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } with empty item 0 air
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Changing status for slot 2 in container {Container #0 id: 1794633394, items: [1 glock18, 1 glockstock, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to true,
+[22Mar2025 03:10:15.545] [Server thread/DEBUG] [pointblank/]: Setting item 3 in container {Container #0 id: 1794633394, items: [1 glock18, 1 glockstock, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 0 air with tag null
+[22Mar2025 03:10:15.546] [Server thread/DEBUG] [pointblank/]: Updated slot #3 in container {Container #0 id: 1794633394, items: [1 glock18, 1 glockstock, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } with empty item 0 air
+[22Mar2025 03:10:15.546] [Server thread/DEBUG] [pointblank/]: Changing status for slot 3 in container {Container #0 id: 1794633394, items: [1 glock18, 1 glockstock, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to true,
+[22Mar2025 03:10:15.546] [Server thread/DEBUG] [pointblank/]: Container active attachment count: 3 in container {Container #0 id: 1794633394, items: [1 glock18, 1 glockstock, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:15.546] [Server thread/DEBUG] [pointblank/]: Updated attachment slots for container {Container #0 id: 1794633394, items: [1 glock18, 1 glockstock, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:16.541] [Server thread/DEBUG] [pointblank/]: Virtual inventory {vi: 1400170996, path: 53655621-38b6-4cea-bb17-f991bfee84e5, elements: {AttachmentCategory[stock]={vi: 1339056700, path: 53655621-38b6-4cea-bb17-f991bfee84e5/glockstock, elements: {}}, AttachmentCategory[scope]={vi: 410761594, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[muzzle]={vi: 1417083339, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}}} handling changes in container {Container #0 id: 1794633394, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }, stack tags {GeckoLibID:5L,aim:0b,ammo:20,ammox:{},as:[{id:"pointblank:glockstock",rmv:1b}],fmid:[I;-2003212435,1528119213,-1447685183,-1702923800],lid:-4965225659767028507L,mid:6009303978481175786L,sa:{scope:"/"},seed:-5007572491238140360L}
+[22Mar2025 03:10:16.541] [Server thread/DEBUG] [pointblank/]: Removing attachment '0 air' from slot 1, with tag {id:"pointblank:glockstock",rmv:1b} from stack '1 glock18'
+[22Mar2025 03:10:16.541] [Server thread/DEBUG] [pointblank/]: Updating attachment slots for inventory {vi: 1400170996, path: 53655621-38b6-4cea-bb17-f991bfee84e5, elements: {AttachmentCategory[stock]={vi: 1339056700, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[scope]={vi: 410761594, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[muzzle]={vi: 1417083339, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}}} for container 0
+[22Mar2025 03:10:16.542] [Server thread/DEBUG] [pointblank/]: Invalid slot mapping found for key 53655621-38b6-4cea-bb17-f991bfee84e5 in inventory {vi: 1400170996, path: 53655621-38b6-4cea-bb17-f991bfee84e5, elements: {AttachmentCategory[stock]={vi: 1339056700, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[scope]={vi: 410761594, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[muzzle]={vi: 1417083339, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}}}. Here it is: {}
+[22Mar2025 03:10:16.542] [Server thread/DEBUG] [pointblank/]: Creating a slot mapping for key 53655621-38b6-4cea-bb17-f991bfee84e5 in inventory {vi: 1400170996, path: 53655621-38b6-4cea-bb17-f991bfee84e5, elements: {AttachmentCategory[stock]={vi: 1339056700, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[scope]={vi: 410761594, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[muzzle]={vi: 1417083339, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}}}
+[22Mar2025 03:10:16.542] [Server thread/DEBUG] [pointblank/]: Created a slot mapping for key 53655621-38b6-4cea-bb17-f991bfee84e5 in inventory {vi: 1400170996, path: 53655621-38b6-4cea-bb17-f991bfee84e5, elements: {AttachmentCategory[stock]={vi: 1339056700, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[scope]={vi: 410761594, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[muzzle]={vi: 1417083339, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}}}. Here it is: {}
+[22Mar2025 03:10:16.542] [Server thread/DEBUG] [pointblank/]: Setting item 0 in container {Container #0 id: 1794633394, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 1 glock18 with tag {GeckoLibID:5L,aim:0b,ammo:20,ammox:{},as:[],fmid:[I;-2003212435,1528119213,-1447685183,-1702923800],lid:-4965225659767028507L,mid:6009303978481175786L,sa:{scope:"/"},seed:-5007572491238140360L}
+[22Mar2025 03:10:16.542] [Server thread/DEBUG] [pointblank/]: Setting item 1 in container {Container #0 id: 1794633394, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 0 air with tag null
+[22Mar2025 03:10:16.542] [Server thread/DEBUG] [pointblank/]: Updated slot #1 in container {Container #0 id: 1794633394, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } with empty item 0 air
+[22Mar2025 03:10:16.542] [Server thread/DEBUG] [pointblank/]: Setting item 2 in container {Container #0 id: 1794633394, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 0 air with tag null
+[22Mar2025 03:10:16.542] [Server thread/DEBUG] [pointblank/]: Updated slot #2 in container {Container #0 id: 1794633394, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } with empty item 0 air
+[22Mar2025 03:10:16.542] [Server thread/DEBUG] [pointblank/]: Setting item 3 in container {Container #0 id: 1794633394, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 0 air with tag null
+[22Mar2025 03:10:16.542] [Server thread/DEBUG] [pointblank/]: Updated slot #3 in container {Container #0 id: 1794633394, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } with empty item 0 air
+[22Mar2025 03:10:16.542] [Server thread/DEBUG] [pointblank/]: Container active attachment count: 3 in container {Container #0 id: 1794633394, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:16.542] [Server thread/DEBUG] [pointblank/]: Updated attachment slots for container {Container #0 id: 1794633394, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:16.544] [Server thread/DEBUG] [pointblank/]: Virtual inventory {vi: 1400170996, path: 53655621-38b6-4cea-bb17-f991bfee84e5, elements: {AttachmentCategory[stock]={vi: 1339056700, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[scope]={vi: 410761594, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[muzzle]={vi: 1417083339, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}}} handled changes for container {Container #0 id: 1794633394, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }, stack tags {GeckoLibID:5L,aim:0b,ammo:20,ammox:{},as:[],fmid:[I;-2003212435,1528119213,-1447685183,-1702923800],lid:-4965225659767028507L,mid:6009303978481175786L,sa:{scope:"/"},seed:-5007572491238140360L}
+[22Mar2025 03:10:16.544] [Server thread/DEBUG] [pointblank/]: Setting attachment slot 1 for container {Container #0 id: 1794633394, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 0 air with tag null
+[22Mar2025 03:10:16.544] [Server thread/DEBUG] [pointblank/]: Setting item 1 in container {Container #0 id: 1794633394, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 0 air with tag null
+[22Mar2025 03:10:16.544] [Server thread/DEBUG] [pointblank/]: Virtual inventory {vi: 1400170996, path: 53655621-38b6-4cea-bb17-f991bfee84e5, elements: {AttachmentCategory[stock]={vi: 1339056700, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[scope]={vi: 410761594, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[muzzle]={vi: 1417083339, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}}} handling changes in container {Container #0 id: 1794633394, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }, stack tags {GeckoLibID:5L,aim:0b,ammo:20,ammox:{},as:[],fmid:[I;-2003212435,1528119213,-1447685183,-1702923800],lid:-4965225659767028507L,mid:6009303978481175786L,sa:{scope:"/"},seed:-5007572491238140360L}
+[22Mar2025 03:10:16.544] [Server thread/DEBUG] [pointblank/]: Updating attachment slots for inventory {vi: 1400170996, path: 53655621-38b6-4cea-bb17-f991bfee84e5, elements: {AttachmentCategory[stock]={vi: 1339056700, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[scope]={vi: 410761594, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[muzzle]={vi: 1417083339, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}}} for container 0
+[22Mar2025 03:10:16.544] [Server thread/DEBUG] [pointblank/]: Invalid slot mapping found for key 53655621-38b6-4cea-bb17-f991bfee84e5 in inventory {vi: 1400170996, path: 53655621-38b6-4cea-bb17-f991bfee84e5, elements: {AttachmentCategory[stock]={vi: 1339056700, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[scope]={vi: 410761594, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[muzzle]={vi: 1417083339, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}}}. Here it is: {}
+[22Mar2025 03:10:16.544] [Server thread/DEBUG] [pointblank/]: Creating a slot mapping for key 53655621-38b6-4cea-bb17-f991bfee84e5 in inventory {vi: 1400170996, path: 53655621-38b6-4cea-bb17-f991bfee84e5, elements: {AttachmentCategory[stock]={vi: 1339056700, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[scope]={vi: 410761594, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[muzzle]={vi: 1417083339, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}}}
+[22Mar2025 03:10:16.544] [Server thread/DEBUG] [pointblank/]: Created a slot mapping for key 53655621-38b6-4cea-bb17-f991bfee84e5 in inventory {vi: 1400170996, path: 53655621-38b6-4cea-bb17-f991bfee84e5, elements: {AttachmentCategory[stock]={vi: 1339056700, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[scope]={vi: 410761594, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[muzzle]={vi: 1417083339, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}}}. Here it is: {}
+[22Mar2025 03:10:16.544] [Server thread/DEBUG] [pointblank/]: Setting item 0 in container {Container #0 id: 1794633394, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 1 glock18 with tag {GeckoLibID:5L,aim:0b,ammo:20,ammox:{},as:[],fmid:[I;-2003212435,1528119213,-1447685183,-1702923800],lid:-4965225659767028507L,mid:6009303978481175786L,sa:{scope:"/"},seed:-5007572491238140360L}
+[22Mar2025 03:10:16.544] [Server thread/DEBUG] [pointblank/]: Setting item 1 in container {Container #0 id: 1794633394, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 0 air with tag null
+[22Mar2025 03:10:16.544] [Server thread/DEBUG] [pointblank/]: Updated slot #1 in container {Container #0 id: 1794633394, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } with empty item 0 air
+[22Mar2025 03:10:16.544] [Server thread/DEBUG] [pointblank/]: Setting item 2 in container {Container #0 id: 1794633394, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 0 air with tag null
+[22Mar2025 03:10:16.544] [Server thread/DEBUG] [pointblank/]: Updated slot #2 in container {Container #0 id: 1794633394, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } with empty item 0 air
+[22Mar2025 03:10:16.544] [Server thread/DEBUG] [pointblank/]: Setting item 3 in container {Container #0 id: 1794633394, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 0 air with tag null
+[22Mar2025 03:10:16.544] [Server thread/DEBUG] [pointblank/]: Updated slot #3 in container {Container #0 id: 1794633394, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } with empty item 0 air
+[22Mar2025 03:10:16.544] [Server thread/DEBUG] [pointblank/]: Container active attachment count: 3 in container {Container #0 id: 1794633394, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:16.544] [Server thread/DEBUG] [pointblank/]: Updated attachment slots for container {Container #0 id: 1794633394, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[22Mar2025 03:10:16.545] [Server thread/DEBUG] [pointblank/]: Virtual inventory {vi: 1400170996, path: 53655621-38b6-4cea-bb17-f991bfee84e5, elements: {AttachmentCategory[stock]={vi: 1339056700, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[scope]={vi: 410761594, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}, AttachmentCategory[muzzle]={vi: 1417083339, path: 53655621-38b6-4cea-bb17-f991bfee84e5/air, elements: {}}}} handled changes for container {Container #0 id: 1794633394, items: [1 glock18, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }, stack tags {GeckoLibID:5L,aim:0b,ammo:20,ammox:{},as:[],fmid:[I;-2003212435,1528119213,-1447685183,-1702923800],lid:-4965225659767028507L,mid:6009303978481175786L,sa:{scope:"/"},seed:-5007572491238140360L}
+[22Mar2025 03:10:37.365] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.single', args=[]}, tag: {GeckoLibID:5L,aim:0b,ammo:20,ammox:{},as:[],fmid:[I;-869994151,877606208,-1521417059,-1120999094],lid:-4965225659767028507L,mid:6009303978481175786L,sa:{scope:"/"},seed:-5007572491238140360L}
+[22Mar2025 03:10:37.542] [Server thread/DEBUG] [pointblank/]: 37542 handling client fire request
+[22Mar2025 03:10:37.542] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1063197106 to 19
+[22Mar2025 03:10:37.542] [Server thread/DEBUG] [pointblank/]: 37542 - obtained hit result in 0ms
+[22Mar2025 03:10:37.542] [Server thread/DEBUG] [pointblank/]: 37542 obtained hit results
+[22Mar2025 03:10:37.542] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1cbaff66
+[22Mar2025 03:10:37.543] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1525.70, y=68.00, z=1.16] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1525.70, y=68.00, z=1.16]
+[22Mar2025 03:10:38.391] [Server thread/DEBUG] [pointblank/]: 38391 handling client fire request
+[22Mar2025 03:10:38.391] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1063197106 to 18
+[22Mar2025 03:10:38.392] [Server thread/DEBUG] [pointblank/]: 38392 - obtained hit result in 0ms
+[22Mar2025 03:10:38.392] [Server thread/DEBUG] [pointblank/]: 38392 obtained hit results
+[22Mar2025 03:10:38.392] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@490e24af
+[22Mar2025 03:10:38.393] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1525.70, y=68.00, z=1.16] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1525.70, y=68.00, z=1.16]
+[22Mar2025 03:10:38.641] [Server thread/DEBUG] [pointblank/]: 38641 handling client fire request
+[22Mar2025 03:10:38.641] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1063197106 to 17
+[22Mar2025 03:10:38.642] [Server thread/DEBUG] [pointblank/]: 38642 - obtained hit result in 0ms
+[22Mar2025 03:10:38.642] [Server thread/DEBUG] [pointblank/]: 38642 obtained hit results
+[22Mar2025 03:10:38.642] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1aea84ff
+[22Mar2025 03:10:38.642] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1525.67, y=68.00, z=1.59] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1525.67, y=68.00, z=1.59]
+[22Mar2025 03:10:38.801] [Server thread/DEBUG] [pointblank/]: 38801 handling client fire request
+[22Mar2025 03:10:38.801] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1063197106 to 16
+[22Mar2025 03:10:38.801] [Server thread/DEBUG] [pointblank/]: 38801 - obtained hit result in 0ms
+[22Mar2025 03:10:38.801] [Server thread/DEBUG] [pointblank/]: 38801 obtained hit results
+[22Mar2025 03:10:38.801] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2a6a453c
+[22Mar2025 03:10:38.802] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1525.66, y=68.00, z=1.77] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1525.66, y=68.00, z=1.77]
+[22Mar2025 03:10:39.142] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1063197106 to 20
+[22Mar2025 03:11:18.211] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[22Mar2025 03:11:18.211] [IO-Worker-56/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[22Mar2025 03:11:28.593] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.automatic', args=[]}, tag: {GeckoLibID:5L,aim:1b,ammo:20,ammox:{},as:[],fmid:[I;-2003212435,1528119213,-1447685183,-1702923800],lid:-4965225659767028507L,mid:6009303978481175786L,sa:{scope:"/"},seed:-5007572491238140360L}
+[22Mar2025 03:11:28.846] [Server thread/DEBUG] [pointblank/]: 88846 handling client fire request
+[22Mar2025 03:11:28.846] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579800366 to 19
+[22Mar2025 03:11:28.846] [Server thread/DEBUG] [pointblank/]: 88846 - obtained hit result in 0ms
+[22Mar2025 03:11:28.846] [Server thread/DEBUG] [pointblank/]: 88846 obtained hit results
+[22Mar2025 03:11:28.846] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@51adfcc7
+[22Mar2025 03:11:28.847] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1515.39, y=68.24, z=-52.83] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1515.39, y=68.24, z=-52.83]
+[22Mar2025 03:11:28.907] [Server thread/DEBUG] [pointblank/]: 88907 handling client fire request
+[22Mar2025 03:11:28.907] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579800366 to 18
+[22Mar2025 03:11:28.907] [Server thread/DEBUG] [pointblank/]: 88907 - obtained hit result in 0ms
+[22Mar2025 03:11:28.907] [Server thread/DEBUG] [pointblank/]: 88907 obtained hit results
+[22Mar2025 03:11:28.907] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@f5c2602
+[22Mar2025 03:11:28.907] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1515.39, y=68.24, z=-52.86] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1515.39, y=68.24, z=-52.86]
+[22Mar2025 03:11:28.994] [Server thread/DEBUG] [pointblank/]: 88994 handling client fire request
+[22Mar2025 03:11:28.994] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579800366 to 17
+[22Mar2025 03:11:28.994] [Server thread/DEBUG] [pointblank/]: 88994 - obtained hit result in 0ms
+[22Mar2025 03:11:28.994] [Server thread/DEBUG] [pointblank/]: 88994 obtained hit results
+[22Mar2025 03:11:28.994] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6638e8c7
+[22Mar2025 03:11:28.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: issia_kzh has made the advancement [Give Orange Me Give Eat Orange]
+[22Mar2025 03:11:28.996] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1515.39, y=68.24, z=-52.91] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1515.39, y=68.24, z=-52.91]
+[22Mar2025 03:11:29.095] [Server thread/DEBUG] [pointblank/]: 89095 handling client fire request
+[22Mar2025 03:11:29.095] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579800366 to 16
+[22Mar2025 03:11:29.095] [Server thread/DEBUG] [pointblank/]: 89095 - obtained hit result in 0ms
+[22Mar2025 03:11:29.095] [Server thread/DEBUG] [pointblank/]: 89095 obtained hit results
+[22Mar2025 03:11:29.095] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3c046f53
+[22Mar2025 03:11:29.096] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1515.39, y=68.24, z=-52.95] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1515.39, y=68.24, z=-52.95]
+[22Mar2025 03:11:29.168] [Server thread/DEBUG] [pointblank/]: 89168 handling client fire request
+[22Mar2025 03:11:29.168] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579800366 to 15
+[22Mar2025 03:11:29.168] [Server thread/DEBUG] [pointblank/]: 89168 - obtained hit result in 0ms
+[22Mar2025 03:11:29.168] [Server thread/DEBUG] [pointblank/]: 89168 obtained hit results
+[22Mar2025 03:11:29.168] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4dac0e23
+[22Mar2025 03:11:29.168] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1515.39, y=68.24, z=-52.97] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1515.39, y=68.24, z=-52.97]
+[22Mar2025 03:11:29.248] [Server thread/DEBUG] [pointblank/]: 89248 handling client fire request
+[22Mar2025 03:11:29.248] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579800366 to 14
+[22Mar2025 03:11:29.248] [Server thread/DEBUG] [pointblank/]: 89248 - obtained hit result in 0ms
+[22Mar2025 03:11:29.248] [Server thread/DEBUG] [pointblank/]: 89248 obtained hit results
+[22Mar2025 03:11:29.249] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3d92b8dd
+[22Mar2025 03:11:29.249] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1515.39, y=68.24, z=-53.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1515.39, y=68.24, z=-53.00]
+[22Mar2025 03:11:29.345] [Server thread/DEBUG] [pointblank/]: 89345 handling client fire request
+[22Mar2025 03:11:29.345] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579800366 to 13
+[22Mar2025 03:11:29.346] [Server thread/DEBUG] [pointblank/]: 89346 - obtained hit result in 1ms
+[22Mar2025 03:11:29.346] [Server thread/DEBUG] [pointblank/]: 89346 obtained hit results
+[22Mar2025 03:11:29.346] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4fd4e392
+[22Mar2025 03:11:29.346] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1515.39, y=68.24, z=-53.03] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1515.39, y=68.24, z=-53.03]
+[22Mar2025 03:11:29.448] [Server thread/DEBUG] [pointblank/]: 89448 handling client fire request
+[22Mar2025 03:11:29.448] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579800366 to 12
+[22Mar2025 03:11:29.448] [Server thread/DEBUG] [pointblank/]: 89448 - obtained hit result in 0ms
+[22Mar2025 03:11:29.448] [Server thread/DEBUG] [pointblank/]: 89448 obtained hit results
+[22Mar2025 03:11:29.448] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4a90259c
+[22Mar2025 03:11:29.448] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1515.39, y=68.24, z=-53.05] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1515.39, y=68.24, z=-53.05]
+[22Mar2025 03:11:29.496] [Server thread/DEBUG] [pointblank/]: 89496 handling client fire request
+[22Mar2025 03:11:29.497] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579800366 to 11
+[22Mar2025 03:11:29.497] [Server thread/DEBUG] [pointblank/]: 89497 - obtained hit result in 0ms
+[22Mar2025 03:11:29.497] [Server thread/DEBUG] [pointblank/]: 89497 obtained hit results
+[22Mar2025 03:11:29.497] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@52094b25
+[22Mar2025 03:11:29.497] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1515.39, y=68.24, z=-53.06] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1515.39, y=68.24, z=-53.06]
+[22Mar2025 03:11:29.592] [Server thread/DEBUG] [pointblank/]: 89592 handling client fire request
+[22Mar2025 03:11:29.592] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579800366 to 10
+[22Mar2025 03:11:29.592] [Server thread/DEBUG] [pointblank/]: 89592 - obtained hit result in 0ms
+[22Mar2025 03:11:29.592] [Server thread/DEBUG] [pointblank/]: 89592 obtained hit results
+[22Mar2025 03:11:29.592] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@19bfeb83
+[22Mar2025 03:11:29.593] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1515.39, y=68.24, z=-53.07] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1515.39, y=68.24, z=-53.07]
+[22Mar2025 03:11:29.658] [Server thread/DEBUG] [pointblank/]: 89658 handling client fire request
+[22Mar2025 03:11:29.658] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579800366 to 9
+[22Mar2025 03:11:29.658] [Server thread/DEBUG] [pointblank/]: 89658 - obtained hit result in 0ms
+[22Mar2025 03:11:29.658] [Server thread/DEBUG] [pointblank/]: 89658 obtained hit results
+[22Mar2025 03:11:29.658] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@543b42f6
+[22Mar2025 03:11:29.659] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1515.39, y=68.24, z=-53.08] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1515.39, y=68.24, z=-53.08]
+[22Mar2025 03:11:29.793] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.single', args=[]}, tag: {GeckoLibID:5L,aim:1b,ammo:9,ammox:{},as:[],fmid:[I;-869994151,877606208,-1521417059,-1120999094],lid:-4965225659767028507L,mid:6009303978481175786L,sa:{scope:"/"},seed:-5007572491238140360L}
+[22Mar2025 03:11:30.545] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579800366 to 20
+[22Mar2025 03:11:32.745] [Server thread/DEBUG] [pointblank/]: 92745 handling client fire request
+[22Mar2025 03:11:32.745] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579800366 to 19
+[22Mar2025 03:11:32.745] [Server thread/DEBUG] [pointblank/]: 92745 - obtained hit result in 0ms
+[22Mar2025 03:11:32.745] [Server thread/DEBUG] [pointblank/]: 92745 obtained hit results
+[22Mar2025 03:11:32.745] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3b0511b9
+[22Mar2025 03:11:32.745] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1523.32, y=70.10, z=-16.09] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1523.32, y=70.10, z=-16.09]
+[22Mar2025 03:11:33.442] [Server thread/DEBUG] [pointblank/]: 93442 handling client fire request
+[22Mar2025 03:11:33.443] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579800366 to 18
+[22Mar2025 03:11:33.443] [Server thread/DEBUG] [pointblank/]: 93443 - obtained hit result in 0ms
+[22Mar2025 03:11:33.443] [Server thread/DEBUG] [pointblank/]: 93443 obtained hit results
+[22Mar2025 03:11:33.443] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@413fcaf2
+[22Mar2025 03:11:33.443] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1524.06, y=70.10, z=-12.28] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1524.06, y=70.10, z=-12.28]
+[22Mar2025 03:11:34.194] [Server thread/DEBUG] [pointblank/]: 94194 handling client fire request
+[22Mar2025 03:11:34.194] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579800366 to 17
+[22Mar2025 03:11:34.194] [Server thread/DEBUG] [pointblank/]: 94194 - obtained hit result in 0ms
+[22Mar2025 03:11:34.194] [Server thread/DEBUG] [pointblank/]: 94194 obtained hit results
+[22Mar2025 03:11:34.195] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@36ae35aa
+[22Mar2025 03:11:34.195] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1524.44, y=70.10, z=-9.82] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1524.44, y=70.10, z=-9.82]
+[22Mar2025 03:11:34.592] [Server thread/DEBUG] [pointblank/]: 94592 handling client fire request
+[22Mar2025 03:11:34.593] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579800366 to 16
+[22Mar2025 03:11:34.593] [Server thread/DEBUG] [pointblank/]: 94593 - obtained hit result in 0ms
+[22Mar2025 03:11:34.593] [Server thread/DEBUG] [pointblank/]: 94593 obtained hit results
+[22Mar2025 03:11:34.593] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7638372d
+[22Mar2025 03:11:34.593] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1524.34, y=70.10, z=-8.28] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1524.34, y=70.10, z=-8.28]
+[22Mar2025 03:11:35.143] [Server thread/DEBUG] [pointblank/]: 95143 handling client fire request
+[22Mar2025 03:11:35.143] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579800366 to 15
+[22Mar2025 03:11:35.144] [Server thread/DEBUG] [pointblank/]: 95144 - obtained hit result in 0ms
+[22Mar2025 03:11:35.144] [Server thread/DEBUG] [pointblank/]: 95144 obtained hit results
+[22Mar2025 03:11:35.144] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5bc1e720
+[22Mar2025 03:11:35.144] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.68, y=70.10, z=-5.10] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1522.68, y=70.10, z=-5.10]
+[22Mar2025 03:11:36.049] [Server thread/DEBUG] [pointblank/]: 96049 handling client fire request
+[22Mar2025 03:11:36.049] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579800366 to 14
+[22Mar2025 03:11:36.049] [Server thread/DEBUG] [pointblank/]: 96049 - obtained hit result in 0ms
+[22Mar2025 03:11:36.049] [Server thread/DEBUG] [pointblank/]: 96049 obtained hit results
+[22Mar2025 03:11:36.049] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4c2ec0e
+[22Mar2025 03:11:36.050] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1521.85, y=70.10, z=-2.24] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1521.85, y=70.10, z=-2.24]
+[22Mar2025 03:11:36.242] [Server thread/DEBUG] [pointblank/]: 96242 handling client fire request
+[22Mar2025 03:11:36.242] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579800366 to 13
+[22Mar2025 03:11:36.243] [Server thread/DEBUG] [pointblank/]: 96243 - obtained hit result in 0ms
+[22Mar2025 03:11:36.243] [Server thread/DEBUG] [pointblank/]: 96243 obtained hit results
+[22Mar2025 03:11:36.243] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@54445c5e
+[22Mar2025 03:11:36.244] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1521.74, y=70.10, z=-2.18] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1521.74, y=70.10, z=-2.18]
+[22Mar2025 03:11:36.394] [Server thread/DEBUG] [pointblank/]: 96394 handling client fire request
+[22Mar2025 03:11:36.394] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579800366 to 12
+[22Mar2025 03:11:36.394] [Server thread/DEBUG] [pointblank/]: 96394 - obtained hit result in 0ms
+[22Mar2025 03:11:36.394] [Server thread/DEBUG] [pointblank/]: 96394 obtained hit results
+[22Mar2025 03:11:36.394] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@63a25323
+[22Mar2025 03:11:36.394] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1521.67, y=70.10, z=-2.15] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1521.67, y=70.10, z=-2.15]
+[22Mar2025 03:11:36.545] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 579800366 to 20
+[22Mar2025 03:12:23.294] [Server thread/DEBUG] [pointblank/]: 43294 handling client fire request
+[22Mar2025 03:12:23.294] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1206254483 to 19
+[22Mar2025 03:12:23.294] [Server thread/DEBUG] [pointblank/]: 43294 - obtained hit result in 0ms
+[22Mar2025 03:12:23.294] [Server thread/DEBUG] [pointblank/]: 43294 obtained hit results
+[22Mar2025 03:12:23.294] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4cb38122
+[22Mar2025 03:12:23.295] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1501.79, y=68.00, z=-7.12] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1501.79, y=68.00, z=-7.12]
+[22Mar2025 03:12:23.550] [Server thread/DEBUG] [pointblank/]: 43550 handling client fire request
+[22Mar2025 03:12:23.550] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1206254483 to 18
+[22Mar2025 03:12:23.551] [Server thread/DEBUG] [pointblank/]: 43551 - obtained hit result in 1ms
+[22Mar2025 03:12:23.551] [Server thread/DEBUG] [pointblank/]: 43551 obtained hit results
+[22Mar2025 03:12:23.551] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5d13f771
+[22Mar2025 03:12:23.551] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1501.79, y=68.00, z=-7.12] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1501.79, y=68.00, z=-7.12]
+[22Mar2025 03:12:24.247] [Server thread/DEBUG] [pointblank/]: 44246 handling client fire request
+[22Mar2025 03:12:24.247] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1206254483 to 17
+[22Mar2025 03:12:24.247] [Server thread/DEBUG] [pointblank/]: 44247 - obtained hit result in 0ms
+[22Mar2025 03:12:24.247] [Server thread/DEBUG] [pointblank/]: 44247 obtained hit results
+[22Mar2025 03:12:24.247] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@62754091
+[22Mar2025 03:12:24.247] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1501.79, y=68.00, z=-7.12] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1501.79, y=68.00, z=-7.12]
+[22Mar2025 03:12:24.844] [Server thread/DEBUG] [pointblank/]: 44844 handling client fire request
+[22Mar2025 03:12:24.845] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1206254483 to 16
+[22Mar2025 03:12:24.845] [Server thread/DEBUG] [pointblank/]: 44845 - obtained hit result in 0ms
+[22Mar2025 03:12:24.845] [Server thread/DEBUG] [pointblank/]: 44845 obtained hit results
+[22Mar2025 03:12:24.845] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@459e4003
+[22Mar2025 03:12:24.845] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1501.79, y=68.00, z=-7.12] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1501.79, y=68.00, z=-7.12]
+[22Mar2025 03:12:25.445] [Server thread/DEBUG] [pointblank/]: 45445 handling client fire request
+[22Mar2025 03:12:25.445] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1206254483 to 15
+[22Mar2025 03:12:25.446] [Server thread/DEBUG] [pointblank/]: 45446 - obtained hit result in 0ms
+[22Mar2025 03:12:25.446] [Server thread/DEBUG] [pointblank/]: 45446 obtained hit results
+[22Mar2025 03:12:25.446] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7380e548
+[22Mar2025 03:12:25.447] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1501.79, y=68.00, z=-7.12] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1501.79, y=68.00, z=-7.12]
+[22Mar2025 03:12:26.145] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1206254483 to 20
+[22Mar2025 03:12:59.744] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.automatic', args=[]}, tag: {GeckoLibID:5L,aim:0b,ammo:20,ammox:{},as:[],fmid:[I;-2003212435,1528119213,-1447685183,-1702923800],lid:-4965225659767028507L,mid:6009303978481175786L,sa:{scope:"/"},seed:-5007572491238140360L}
+[22Mar2025 03:13:01.898] [Server thread/DEBUG] [pointblank/]: 81898 handling client fire request
+[22Mar2025 03:13:01.898] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1168896465 to 19
+[22Mar2025 03:13:01.898] [Server thread/DEBUG] [pointblank/]: 81898 - obtained hit result in 0ms
+[22Mar2025 03:13:01.898] [Server thread/DEBUG] [pointblank/]: 81898 obtained hit results
+[22Mar2025 03:13:01.898] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@511f59ac
+[22Mar2025 03:13:01.899] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34]
+[22Mar2025 03:13:01.949] [Server thread/DEBUG] [pointblank/]: 81949 handling client fire request
+[22Mar2025 03:13:01.949] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1168896465 to 18
+[22Mar2025 03:13:01.949] [Server thread/DEBUG] [pointblank/]: 81949 - obtained hit result in 0ms
+[22Mar2025 03:13:01.950] [Server thread/DEBUG] [pointblank/]: 81950 obtained hit results
+[22Mar2025 03:13:01.950] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@38a412e2
+[22Mar2025 03:13:01.950] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34]
+[22Mar2025 03:13:02.046] [Server thread/DEBUG] [pointblank/]: 82046 handling client fire request
+[22Mar2025 03:13:02.046] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1168896465 to 17
+[22Mar2025 03:13:02.046] [Server thread/DEBUG] [pointblank/]: 82046 - obtained hit result in 0ms
+[22Mar2025 03:13:02.046] [Server thread/DEBUG] [pointblank/]: 82046 obtained hit results
+[22Mar2025 03:13:02.046] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@54475a99
+[22Mar2025 03:13:02.046] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34]
+[22Mar2025 03:13:02.107] [Server thread/DEBUG] [pointblank/]: 82107 handling client fire request
+[22Mar2025 03:13:02.107] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1168896465 to 16
+[22Mar2025 03:13:02.107] [Server thread/DEBUG] [pointblank/]: 82107 - obtained hit result in 0ms
+[22Mar2025 03:13:02.107] [Server thread/DEBUG] [pointblank/]: 82107 obtained hit results
+[22Mar2025 03:13:02.107] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5fcaeb44
+[22Mar2025 03:13:02.108] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34]
+[22Mar2025 03:13:02.248] [Server thread/DEBUG] [pointblank/]: 82248 handling client fire request
+[22Mar2025 03:13:02.248] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1168896465 to 15
+[22Mar2025 03:13:02.248] [Server thread/DEBUG] [pointblank/]: 82248 - obtained hit result in 0ms
+[22Mar2025 03:13:02.248] [Server thread/DEBUG] [pointblank/]: 82248 obtained hit results
+[22Mar2025 03:13:02.248] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@34effb19
+[22Mar2025 03:13:02.248] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34]
+[22Mar2025 03:13:02.303] [Server thread/DEBUG] [pointblank/]: 82303 handling client fire request
+[22Mar2025 03:13:02.303] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1168896465 to 14
+[22Mar2025 03:13:02.303] [Server thread/DEBUG] [pointblank/]: 82303 - obtained hit result in 0ms
+[22Mar2025 03:13:02.303] [Server thread/DEBUG] [pointblank/]: 82303 obtained hit results
+[22Mar2025 03:13:02.303] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5ffb947
+[22Mar2025 03:13:02.303] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34]
+[22Mar2025 03:13:02.368] [Server thread/DEBUG] [pointblank/]: 82368 handling client fire request
+[22Mar2025 03:13:02.368] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1168896465 to 13
+[22Mar2025 03:13:02.368] [Server thread/DEBUG] [pointblank/]: 82368 - obtained hit result in 0ms
+[22Mar2025 03:13:02.368] [Server thread/DEBUG] [pointblank/]: 82368 obtained hit results
+[22Mar2025 03:13:02.368] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4933b186
+[22Mar2025 03:13:02.368] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34]
+[22Mar2025 03:13:02.447] [Server thread/DEBUG] [pointblank/]: 82447 handling client fire request
+[22Mar2025 03:13:02.447] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1168896465 to 12
+[22Mar2025 03:13:02.447] [Server thread/DEBUG] [pointblank/]: 82447 - obtained hit result in 0ms
+[22Mar2025 03:13:02.447] [Server thread/DEBUG] [pointblank/]: 82447 obtained hit results
+[22Mar2025 03:13:02.447] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1aac52ed
+[22Mar2025 03:13:02.448] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34]
+[22Mar2025 03:13:02.548] [Server thread/DEBUG] [pointblank/]: 82548 handling client fire request
+[22Mar2025 03:13:02.548] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1168896465 to 11
+[22Mar2025 03:13:02.548] [Server thread/DEBUG] [pointblank/]: 82548 - obtained hit result in 0ms
+[22Mar2025 03:13:02.548] [Server thread/DEBUG] [pointblank/]: 82548 obtained hit results
+[22Mar2025 03:13:02.548] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@28ccbe4d
+[22Mar2025 03:13:02.548] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34]
+[22Mar2025 03:13:02.605] [Server thread/DEBUG] [pointblank/]: 82605 handling client fire request
+[22Mar2025 03:13:02.605] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1168896465 to 10
+[22Mar2025 03:13:02.605] [Server thread/DEBUG] [pointblank/]: 82605 - obtained hit result in 0ms
+[22Mar2025 03:13:02.605] [Server thread/DEBUG] [pointblank/]: 82605 obtained hit results
+[22Mar2025 03:13:02.605] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5d83166c
+[22Mar2025 03:13:02.606] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34]
+[22Mar2025 03:13:02.692] [Server thread/DEBUG] [pointblank/]: 82692 handling client fire request
+[22Mar2025 03:13:02.692] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1168896465 to 9
+[22Mar2025 03:13:02.692] [Server thread/DEBUG] [pointblank/]: 82692 - obtained hit result in 0ms
+[22Mar2025 03:13:02.692] [Server thread/DEBUG] [pointblank/]: 82692 obtained hit results
+[22Mar2025 03:13:02.692] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@66f5a53c
+[22Mar2025 03:13:02.693] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34]
+[22Mar2025 03:13:02.798] [Server thread/DEBUG] [pointblank/]: 82798 handling client fire request
+[22Mar2025 03:13:02.798] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1168896465 to 8
+[22Mar2025 03:13:02.798] [Server thread/DEBUG] [pointblank/]: 82798 - obtained hit result in 0ms
+[22Mar2025 03:13:02.798] [Server thread/DEBUG] [pointblank/]: 82798 obtained hit results
+[22Mar2025 03:13:02.798] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4da3d10b
+[22Mar2025 03:13:02.798] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34]
+[22Mar2025 03:13:02.848] [Server thread/DEBUG] [pointblank/]: 82848 handling client fire request
+[22Mar2025 03:13:02.848] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1168896465 to 7
+[22Mar2025 03:13:02.848] [Server thread/DEBUG] [pointblank/]: 82848 - obtained hit result in 0ms
+[22Mar2025 03:13:02.848] [Server thread/DEBUG] [pointblank/]: 82848 obtained hit results
+[22Mar2025 03:13:02.848] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@191ff95a
+[22Mar2025 03:13:02.848] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34]
+[22Mar2025 03:13:02.943] [Server thread/DEBUG] [pointblank/]: 82943 handling client fire request
+[22Mar2025 03:13:02.943] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1168896465 to 6
+[22Mar2025 03:13:02.943] [Server thread/DEBUG] [pointblank/]: 82943 - obtained hit result in 0ms
+[22Mar2025 03:13:02.943] [Server thread/DEBUG] [pointblank/]: 82943 obtained hit results
+[22Mar2025 03:13:02.943] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1f863f99
+[22Mar2025 03:13:02.944] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34]
+[22Mar2025 03:13:03.015] [Server thread/DEBUG] [pointblank/]: 83015 handling client fire request
+[22Mar2025 03:13:03.015] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1168896465 to 5
+[22Mar2025 03:13:03.015] [Server thread/DEBUG] [pointblank/]: 83015 - obtained hit result in 0ms
+[22Mar2025 03:13:03.015] [Server thread/DEBUG] [pointblank/]: 83015 obtained hit results
+[22Mar2025 03:13:03.015] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3a7e7ca6
+[22Mar2025 03:13:03.015] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34]
+[22Mar2025 03:13:03.094] [Server thread/DEBUG] [pointblank/]: 83094 handling client fire request
+[22Mar2025 03:13:03.095] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1168896465 to 4
+[22Mar2025 03:13:03.095] [Server thread/DEBUG] [pointblank/]: 83095 - obtained hit result in 0ms
+[22Mar2025 03:13:03.095] [Server thread/DEBUG] [pointblank/]: 83095 obtained hit results
+[22Mar2025 03:13:03.095] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1e8a2c5e
+[22Mar2025 03:13:03.095] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34]
+[22Mar2025 03:13:03.197] [Server thread/DEBUG] [pointblank/]: 83197 handling client fire request
+[22Mar2025 03:13:03.198] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1168896465 to 3
+[22Mar2025 03:13:03.198] [Server thread/DEBUG] [pointblank/]: 83198 - obtained hit result in 0ms
+[22Mar2025 03:13:03.198] [Server thread/DEBUG] [pointblank/]: 83198 obtained hit results
+[22Mar2025 03:13:03.198] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@57d8f865
+[22Mar2025 03:13:03.198] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34]
+[22Mar2025 03:13:03.257] [Server thread/DEBUG] [pointblank/]: 83257 handling client fire request
+[22Mar2025 03:13:03.257] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1168896465 to 2
+[22Mar2025 03:13:03.257] [Server thread/DEBUG] [pointblank/]: 83257 - obtained hit result in 0ms
+[22Mar2025 03:13:03.257] [Server thread/DEBUG] [pointblank/]: 83257 obtained hit results
+[22Mar2025 03:13:03.257] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1405b2d7
+[22Mar2025 03:13:03.258] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34]
+[22Mar2025 03:13:03.349] [Server thread/DEBUG] [pointblank/]: 83349 handling client fire request
+[22Mar2025 03:13:03.349] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1168896465 to 1
+[22Mar2025 03:13:03.349] [Server thread/DEBUG] [pointblank/]: 83349 - obtained hit result in 0ms
+[22Mar2025 03:13:03.349] [Server thread/DEBUG] [pointblank/]: 83349 obtained hit results
+[22Mar2025 03:13:03.349] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@eaea3de
+[22Mar2025 03:13:03.349] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34]
+[22Mar2025 03:13:03.452] [Server thread/DEBUG] [pointblank/]: 83452 handling client fire request
+[22Mar2025 03:13:03.452] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1168896465 to 0
+[22Mar2025 03:13:03.452] [Server thread/DEBUG] [pointblank/]: 83452 - obtained hit result in 0ms
+[22Mar2025 03:13:03.452] [Server thread/DEBUG] [pointblank/]: 83452 obtained hit results
+[22Mar2025 03:13:03.452] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@14e1433f
+[22Mar2025 03:13:03.453] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1499.30, y=68.00, z=-10.34]
+[22Mar2025 03:13:06.893] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 20
+[22Mar2025 03:13:08.747] [Server thread/DEBUG] [pointblank/]: 88747 handling client fire request
+[22Mar2025 03:13:08.747] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 19
+[22Mar2025 03:13:08.747] [Server thread/DEBUG] [pointblank/]: 88747 - obtained hit result in 0ms
+[22Mar2025 03:13:08.747] [Server thread/DEBUG] [pointblank/]: 88747 obtained hit results
+[22Mar2025 03:13:08.747] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1efc1fd
+[22Mar2025 03:13:08.748] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.39, y=72.00, z=-9.89] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.39, y=72.00, z=-9.89]
+[22Mar2025 03:13:08.804] [Server thread/DEBUG] [pointblank/]: 88804 handling client fire request
+[22Mar2025 03:13:08.804] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 18
+[22Mar2025 03:13:08.804] [Server thread/DEBUG] [pointblank/]: 88804 - obtained hit result in 0ms
+[22Mar2025 03:13:08.804] [Server thread/DEBUG] [pointblank/]: 88804 obtained hit results
+[22Mar2025 03:13:08.804] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@48fa9f90
+[22Mar2025 03:13:08.805] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.54, y=72.00, z=-9.94] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.54, y=72.00, z=-9.94]
+[22Mar2025 03:13:08.894] [Server thread/DEBUG] [pointblank/]: 88894 handling client fire request
+[22Mar2025 03:13:08.894] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 17
+[22Mar2025 03:13:08.894] [Server thread/DEBUG] [pointblank/]: 88894 - obtained hit result in 0ms
+[22Mar2025 03:13:08.894] [Server thread/DEBUG] [pointblank/]: 88894 obtained hit results
+[22Mar2025 03:13:08.894] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6d17ffd9
+[22Mar2025 03:13:08.895] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.66, y=72.00, z=-9.99] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.66, y=72.00, z=-9.99]
+[22Mar2025 03:13:09.000] [Server thread/DEBUG] [pointblank/]: 89000 handling client fire request
+[22Mar2025 03:13:09.000] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 16
+[22Mar2025 03:13:09.000] [Server thread/DEBUG] [pointblank/]: 89000 - obtained hit result in 0ms
+[22Mar2025 03:13:09.000] [Server thread/DEBUG] [pointblank/]: 89000 obtained hit results
+[22Mar2025 03:13:09.000] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1cc4dbe3
+[22Mar2025 03:13:09.000] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.70, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.70, y=72.00, z=-10.00]
+[22Mar2025 03:13:09.056] [Server thread/DEBUG] [pointblank/]: 89056 handling client fire request
+[22Mar2025 03:13:09.056] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 15
+[22Mar2025 03:13:09.056] [Server thread/DEBUG] [pointblank/]: 89056 - obtained hit result in 0ms
+[22Mar2025 03:13:09.056] [Server thread/DEBUG] [pointblank/]: 89056 obtained hit results
+[22Mar2025 03:13:09.056] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4e7f0695
+[22Mar2025 03:13:09.057] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.70, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.70, y=72.00, z=-10.00]
+[22Mar2025 03:13:09.142] [Server thread/DEBUG] [pointblank/]: 89142 handling client fire request
+[22Mar2025 03:13:09.143] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 14
+[22Mar2025 03:13:09.143] [Server thread/DEBUG] [pointblank/]: 89143 - obtained hit result in 0ms
+[22Mar2025 03:13:09.143] [Server thread/DEBUG] [pointblank/]: 89143 obtained hit results
+[22Mar2025 03:13:09.143] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@503386f5
+[22Mar2025 03:13:09.143] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:09.215] [Server thread/DEBUG] [pointblank/]: 89215 handling client fire request
+[22Mar2025 03:13:09.215] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 13
+[22Mar2025 03:13:09.215] [Server thread/DEBUG] [pointblank/]: 89215 - obtained hit result in 0ms
+[22Mar2025 03:13:09.215] [Server thread/DEBUG] [pointblank/]: 89215 obtained hit results
+[22Mar2025 03:13:09.215] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7a14377c
+[22Mar2025 03:13:09.216] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:09.297] [Server thread/DEBUG] [pointblank/]: 89297 handling client fire request
+[22Mar2025 03:13:09.297] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 12
+[22Mar2025 03:13:09.297] [Server thread/DEBUG] [pointblank/]: 89297 - obtained hit result in 0ms
+[22Mar2025 03:13:09.297] [Server thread/DEBUG] [pointblank/]: 89297 obtained hit results
+[22Mar2025 03:13:09.297] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7cb63556
+[22Mar2025 03:13:09.297] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:09.395] [Server thread/DEBUG] [pointblank/]: 89395 handling client fire request
+[22Mar2025 03:13:09.395] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 11
+[22Mar2025 03:13:09.395] [Server thread/DEBUG] [pointblank/]: 89395 - obtained hit result in 0ms
+[22Mar2025 03:13:09.396] [Server thread/DEBUG] [pointblank/]: 89396 obtained hit results
+[22Mar2025 03:13:09.396] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7e0430a2
+[22Mar2025 03:13:09.396] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:09.464] [Server thread/DEBUG] [pointblank/]: 89464 handling client fire request
+[22Mar2025 03:13:09.464] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 10
+[22Mar2025 03:13:09.464] [Server thread/DEBUG] [pointblank/]: 89464 - obtained hit result in 0ms
+[22Mar2025 03:13:09.464] [Server thread/DEBUG] [pointblank/]: 89464 obtained hit results
+[22Mar2025 03:13:09.464] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6a830a56
+[22Mar2025 03:13:09.464] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:09.548] [Server thread/DEBUG] [pointblank/]: 89548 handling client fire request
+[22Mar2025 03:13:09.548] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 9
+[22Mar2025 03:13:09.548] [Server thread/DEBUG] [pointblank/]: 89548 - obtained hit result in 0ms
+[22Mar2025 03:13:09.548] [Server thread/DEBUG] [pointblank/]: 89548 obtained hit results
+[22Mar2025 03:13:09.548] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1f2d7ffb
+[22Mar2025 03:13:09.549] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:09.645] [Server thread/DEBUG] [pointblank/]: 89645 handling client fire request
+[22Mar2025 03:13:09.645] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 8
+[22Mar2025 03:13:09.645] [Server thread/DEBUG] [pointblank/]: 89645 - obtained hit result in 0ms
+[22Mar2025 03:13:09.645] [Server thread/DEBUG] [pointblank/]: 89645 obtained hit results
+[22Mar2025 03:13:09.645] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@479c931c
+[22Mar2025 03:13:09.646] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:09.742] [Server thread/DEBUG] [pointblank/]: 89742 handling client fire request
+[22Mar2025 03:13:09.742] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 7
+[22Mar2025 03:13:09.742] [Server thread/DEBUG] [pointblank/]: 89742 - obtained hit result in 0ms
+[22Mar2025 03:13:09.742] [Server thread/DEBUG] [pointblank/]: 89742 obtained hit results
+[22Mar2025 03:13:09.742] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3cf8fa80
+[22Mar2025 03:13:09.742] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:09.814] [Server thread/DEBUG] [pointblank/]: 89814 handling client fire request
+[22Mar2025 03:13:09.814] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 6
+[22Mar2025 03:13:09.814] [Server thread/DEBUG] [pointblank/]: 89814 - obtained hit result in 0ms
+[22Mar2025 03:13:09.814] [Server thread/DEBUG] [pointblank/]: 89814 obtained hit results
+[22Mar2025 03:13:09.814] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@18ff5fb0
+[22Mar2025 03:13:09.815] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:09.900] [Server thread/DEBUG] [pointblank/]: 89900 handling client fire request
+[22Mar2025 03:13:09.900] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 5
+[22Mar2025 03:13:09.900] [Server thread/DEBUG] [pointblank/]: 89900 - obtained hit result in 0ms
+[22Mar2025 03:13:09.900] [Server thread/DEBUG] [pointblank/]: 89900 obtained hit results
+[22Mar2025 03:13:09.900] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4a9a5d71
+[22Mar2025 03:13:09.900] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:09.996] [Server thread/DEBUG] [pointblank/]: 89995 handling client fire request
+[22Mar2025 03:13:09.996] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 4
+[22Mar2025 03:13:09.996] [Server thread/DEBUG] [pointblank/]: 89996 - obtained hit result in 0ms
+[22Mar2025 03:13:09.996] [Server thread/DEBUG] [pointblank/]: 89996 obtained hit results
+[22Mar2025 03:13:09.996] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6dada227
+[22Mar2025 03:13:09.996] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:10.097] [Server thread/DEBUG] [pointblank/]: 90097 handling client fire request
+[22Mar2025 03:13:10.097] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 3
+[22Mar2025 03:13:10.097] [Server thread/DEBUG] [pointblank/]: 90097 - obtained hit result in 0ms
+[22Mar2025 03:13:10.097] [Server thread/DEBUG] [pointblank/]: 90097 obtained hit results
+[22Mar2025 03:13:10.097] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@75c41b36
+[22Mar2025 03:13:10.097] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:10.150] [Server thread/DEBUG] [pointblank/]: 90150 handling client fire request
+[22Mar2025 03:13:10.150] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 2
+[22Mar2025 03:13:10.150] [Server thread/DEBUG] [pointblank/]: 90150 - obtained hit result in 0ms
+[22Mar2025 03:13:10.150] [Server thread/DEBUG] [pointblank/]: 90150 obtained hit results
+[22Mar2025 03:13:10.150] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@65b7aff0
+[22Mar2025 03:13:10.151] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:10.245] [Server thread/DEBUG] [pointblank/]: 90245 handling client fire request
+[22Mar2025 03:13:10.245] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 1
+[22Mar2025 03:13:10.245] [Server thread/DEBUG] [pointblank/]: 90245 - obtained hit result in 0ms
+[22Mar2025 03:13:10.246] [Server thread/DEBUG] [pointblank/]: 90246 obtained hit results
+[22Mar2025 03:13:10.246] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@629264a3
+[22Mar2025 03:13:10.246] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:10.348] [Server thread/DEBUG] [pointblank/]: 90348 handling client fire request
+[22Mar2025 03:13:10.348] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 0
+[22Mar2025 03:13:10.348] [Server thread/DEBUG] [pointblank/]: 90348 - obtained hit result in 0ms
+[22Mar2025 03:13:10.348] [Server thread/DEBUG] [pointblank/]: 90348 obtained hit results
+[22Mar2025 03:13:10.348] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@28cf6dc3
+[22Mar2025 03:13:10.349] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:11.144] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 20
+[22Mar2025 03:13:13.144] [Server thread/DEBUG] [pointblank/]: 93144 handling client fire request
+[22Mar2025 03:13:13.144] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 19
+[22Mar2025 03:13:13.144] [Server thread/DEBUG] [pointblank/]: 93144 - obtained hit result in 0ms
+[22Mar2025 03:13:13.144] [Server thread/DEBUG] [pointblank/]: 93144 obtained hit results
+[22Mar2025 03:13:13.144] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6fbb6056
+[22Mar2025 03:13:13.144] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:13.209] [Server thread/DEBUG] [pointblank/]: 93209 handling client fire request
+[22Mar2025 03:13:13.210] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 18
+[22Mar2025 03:13:13.210] [Server thread/DEBUG] [pointblank/]: 93210 - obtained hit result in 0ms
+[22Mar2025 03:13:13.210] [Server thread/DEBUG] [pointblank/]: 93210 obtained hit results
+[22Mar2025 03:13:13.210] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@13cac6a4
+[22Mar2025 03:13:13.210] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:13.295] [Server thread/DEBUG] [pointblank/]: 93295 handling client fire request
+[22Mar2025 03:13:13.295] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 17
+[22Mar2025 03:13:13.295] [Server thread/DEBUG] [pointblank/]: 93295 - obtained hit result in 0ms
+[22Mar2025 03:13:13.295] [Server thread/DEBUG] [pointblank/]: 93295 obtained hit results
+[22Mar2025 03:13:13.295] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@82ba016
+[22Mar2025 03:13:13.296] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:13.395] [Server thread/DEBUG] [pointblank/]: 93395 handling client fire request
+[22Mar2025 03:13:13.395] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 16
+[22Mar2025 03:13:13.395] [Server thread/DEBUG] [pointblank/]: 93395 - obtained hit result in 0ms
+[22Mar2025 03:13:13.395] [Server thread/DEBUG] [pointblank/]: 93395 obtained hit results
+[22Mar2025 03:13:13.395] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1791209f
+[22Mar2025 03:13:13.395] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:13.460] [Server thread/DEBUG] [pointblank/]: 93460 handling client fire request
+[22Mar2025 03:13:13.460] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 15
+[22Mar2025 03:13:13.460] [Server thread/DEBUG] [pointblank/]: 93460 - obtained hit result in 0ms
+[22Mar2025 03:13:13.460] [Server thread/DEBUG] [pointblank/]: 93460 obtained hit results
+[22Mar2025 03:13:13.460] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@426f196b
+[22Mar2025 03:13:13.461] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:13.553] [Server thread/DEBUG] [pointblank/]: 93553 handling client fire request
+[22Mar2025 03:13:13.553] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 14
+[22Mar2025 03:13:13.553] [Server thread/DEBUG] [pointblank/]: 93553 - obtained hit result in 0ms
+[22Mar2025 03:13:13.553] [Server thread/DEBUG] [pointblank/]: 93553 obtained hit results
+[22Mar2025 03:13:13.553] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@36827c25
+[22Mar2025 03:13:13.553] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:13.650] [Server thread/DEBUG] [pointblank/]: 93650 handling client fire request
+[22Mar2025 03:13:13.650] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 13
+[22Mar2025 03:13:13.650] [Server thread/DEBUG] [pointblank/]: 93650 - obtained hit result in 0ms
+[22Mar2025 03:13:13.650] [Server thread/DEBUG] [pointblank/]: 93650 obtained hit results
+[22Mar2025 03:13:13.650] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@33b9f888
+[22Mar2025 03:13:13.651] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:13.726] [Server thread/DEBUG] [pointblank/]: 93726 handling client fire request
+[22Mar2025 03:13:13.726] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 12
+[22Mar2025 03:13:13.726] [Server thread/DEBUG] [pointblank/]: 93726 - obtained hit result in 0ms
+[22Mar2025 03:13:13.726] [Server thread/DEBUG] [pointblank/]: 93726 obtained hit results
+[22Mar2025 03:13:13.726] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@167fc98e
+[22Mar2025 03:13:13.727] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:13.802] [Server thread/DEBUG] [pointblank/]: 93802 handling client fire request
+[22Mar2025 03:13:13.802] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 11
+[22Mar2025 03:13:13.803] [Server thread/DEBUG] [pointblank/]: 93803 - obtained hit result in 0ms
+[22Mar2025 03:13:13.803] [Server thread/DEBUG] [pointblank/]: 93803 obtained hit results
+[22Mar2025 03:13:13.803] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@64c00930
+[22Mar2025 03:13:13.803] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:13.893] [Server thread/DEBUG] [pointblank/]: 93893 handling client fire request
+[22Mar2025 03:13:13.893] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 10
+[22Mar2025 03:13:13.893] [Server thread/DEBUG] [pointblank/]: 93893 - obtained hit result in 0ms
+[22Mar2025 03:13:13.893] [Server thread/DEBUG] [pointblank/]: 93893 obtained hit results
+[22Mar2025 03:13:13.893] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@c9b9f9f
+[22Mar2025 03:13:13.894] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:13.974] [Server thread/DEBUG] [pointblank/]: 93974 handling client fire request
+[22Mar2025 03:13:13.974] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 9
+[22Mar2025 03:13:13.974] [Server thread/DEBUG] [pointblank/]: 93974 - obtained hit result in 0ms
+[22Mar2025 03:13:13.974] [Server thread/DEBUG] [pointblank/]: 93974 obtained hit results
+[22Mar2025 03:13:13.974] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@702f2c27
+[22Mar2025 03:13:13.975] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:14.052] [Server thread/DEBUG] [pointblank/]: 94052 handling client fire request
+[22Mar2025 03:13:14.053] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 8
+[22Mar2025 03:13:14.053] [Server thread/DEBUG] [pointblank/]: 94053 - obtained hit result in 0ms
+[22Mar2025 03:13:14.053] [Server thread/DEBUG] [pointblank/]: 94053 obtained hit results
+[22Mar2025 03:13:14.053] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5180ddae
+[22Mar2025 03:13:14.053] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:14.142] [Server thread/DEBUG] [pointblank/]: 94142 handling client fire request
+[22Mar2025 03:13:14.142] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 7
+[22Mar2025 03:13:14.142] [Server thread/DEBUG] [pointblank/]: 94142 - obtained hit result in 0ms
+[22Mar2025 03:13:14.143] [Server thread/DEBUG] [pointblank/]: 94143 obtained hit results
+[22Mar2025 03:13:14.143] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@73734e1a
+[22Mar2025 03:13:14.143] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:14.198] [Server thread/DEBUG] [pointblank/]: 94198 handling client fire request
+[22Mar2025 03:13:14.198] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 6
+[22Mar2025 03:13:14.198] [Server thread/DEBUG] [pointblank/]: 94198 - obtained hit result in 0ms
+[22Mar2025 03:13:14.198] [Server thread/DEBUG] [pointblank/]: 94198 obtained hit results
+[22Mar2025 03:13:14.198] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@51ef5c09
+[22Mar2025 03:13:14.198] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:14.298] [Server thread/DEBUG] [pointblank/]: 94298 handling client fire request
+[22Mar2025 03:13:14.298] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 5
+[22Mar2025 03:13:14.298] [Server thread/DEBUG] [pointblank/]: 94298 - obtained hit result in 0ms
+[22Mar2025 03:13:14.298] [Server thread/DEBUG] [pointblank/]: 94298 obtained hit results
+[22Mar2025 03:13:14.298] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@239ea899
+[22Mar2025 03:13:14.298] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:14.367] [Server thread/DEBUG] [pointblank/]: 94367 handling client fire request
+[22Mar2025 03:13:14.367] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 4
+[22Mar2025 03:13:14.368] [Server thread/DEBUG] [pointblank/]: 94368 - obtained hit result in 1ms
+[22Mar2025 03:13:14.368] [Server thread/DEBUG] [pointblank/]: 94368 obtained hit results
+[22Mar2025 03:13:14.368] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@52f6d55a
+[22Mar2025 03:13:14.368] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:14.450] [Server thread/DEBUG] [pointblank/]: 94450 handling client fire request
+[22Mar2025 03:13:14.450] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 3
+[22Mar2025 03:13:14.450] [Server thread/DEBUG] [pointblank/]: 94450 - obtained hit result in 0ms
+[22Mar2025 03:13:14.450] [Server thread/DEBUG] [pointblank/]: 94450 obtained hit results
+[22Mar2025 03:13:14.450] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@25d2b17f
+[22Mar2025 03:13:14.450] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:14.546] [Server thread/DEBUG] [pointblank/]: 94546 handling client fire request
+[22Mar2025 03:13:14.546] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 2
+[22Mar2025 03:13:14.546] [Server thread/DEBUG] [pointblank/]: 94546 - obtained hit result in 0ms
+[22Mar2025 03:13:14.546] [Server thread/DEBUG] [pointblank/]: 94546 obtained hit results
+[22Mar2025 03:13:14.546] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@67f7527
+[22Mar2025 03:13:14.546] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00] sends hit scan notification to ServerPlayer['issia_kzh'/55, l='ServerLevel[world]', x=1495.71, y=72.00, z=-10.00]
+[22Mar2025 03:13:17.143] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 974743486 to 20
+[22Mar2025 03:13:26.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [issia_kzh: Set own game mode to Survival Mode]
+[22Mar2025 03:13:52.293] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[22Mar2025 03:14:10.452] [IO-Worker-56/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[22Mar2025 03:14:10.452] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[22Mar2025 03:14:54.043] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: issia_kzh lost connection: Disconnected
+[22Mar2025 03:14:54.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: issia_kzh left the game
+[22Mar2025 03:14:54.044] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of issia_kzh
+[22Mar2025 03:14:54.044] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client issia_kzh
+[22Mar2025 03:15:03.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 03:15:03.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 03:15:28.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[22Mar2025 03:15:28.785] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[22Mar2025 03:15:28.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Mar2025 03:15:28.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Mar2025 03:15:28.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Mar2025 03:15:28.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Mar2025 03:15:29.383] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[22Mar2025 03:15:29.383] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[22Mar2025 03:15:29.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Mar2025 03:15:29.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[22Mar2025 03:15:29.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Mar2025 03:15:29.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_deep_void:deep_void
+[22Mar2025 03:15:29.565] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 03:15:29.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 03:15:29.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Mar2025 03:15:29.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Mar2025 03:15:29.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[22Mar2025 03:15:29.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Mar2025 03:15:29.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deep_void): All chunks are saved
+[22Mar2025 03:15:29.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Mar2025 03:15:29.625] [Server thread/DEBUG] [mixin/]: Mixing common.access.entity.AccessFakePlayerFactory from crafttweaker.forge.mixins.json into net.minecraftforge.common.util.FakePlayerFactory
+[22Mar2025 03:15:29.625] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getFakePlayers()Ljava/util/Map; to crafttweaker$getFakePlayers_$md$26e5aa$0 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[22Mar2025 03:15:29.625] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getMINECRAFT()Lcom/mojang/authlib/GameProfile; to crafttweaker$getMINECRAFT_$md$26e5aa$1 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[22Mar2025 03:15:29.670] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[22Mar2025 03:15:29.670] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[22Mar2025 03:15:29.730] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[22Mar2025 03:15:29.730] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[22Mar2025 03:15:29.730] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for lostcities:lostcity
+[22Mar2025 03:15:29.730] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for lostcities:lostcity
+[22Mar2025 03:15:29.730] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[22Mar2025 03:15:29.730] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[22Mar2025 03:15:29.740] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for the_deep_void:deep_void
+[22Mar2025 03:15:29.740] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for the_deep_void:deep_void
+[22Mar2025 03:15:29.741] [Worker-Main-2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-2 shutdown
+[22Mar2025 03:15:29.741] [Worker-Main-4/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-4 shutdown
+[22Mar2025 03:15:29.742] [Worker-Main-3/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-3 shutdown
+[22Mar2025 03:15:29.753] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[22Mar2025 03:15:29.754] [Server thread/INFO] [Framework/]: Unloading server configs...
+[22Mar2025 03:15:29.761] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: /workspaces/MSP-2.5/servidor_minecraft/config/refurbished_furniture.server.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2358!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23385!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23385!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23385!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23385!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23385!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.lambda$forEachRemaining$1(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.Streams$RangeIntSpliterator.forEachRemaining(Streams.java:104) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.forEachRemaining(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23385!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23385!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23385!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23385!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23385!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.3.7-universal.jar%23516!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23511!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23511!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[22Mar2025 03:15:29.765] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[22Mar2025 03:15:29.794] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[22Mar2025 03:15:29.821] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

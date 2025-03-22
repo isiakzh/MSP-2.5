@@ -1647,3 +1647,27 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Mar2025 02:49:29.187] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33511, l='ServerLevel[world]', x=1766.50, y=73.00, z=35.50]
 [22Mar2025 03:06:49.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [issia_kzh: Gave 1 [Veteran Patch] to issia_kzh]
 [22Mar2025 03:07:32.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [issia_kzh: Gave 1 [Humanoid Target] to issia_kzh]
+[22Mar2025 03:09:43.694] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
+[22Mar2025 03:11:28.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: issia_kzh has made the advancement [Give Orange Me Give Eat Orange]
+[22Mar2025 03:13:26.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [issia_kzh: Set own game mode to Survival Mode]
+[22Mar2025 03:14:54.043] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: issia_kzh lost connection: Disconnected
+[22Mar2025 03:14:54.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: issia_kzh left the game
+[22Mar2025 03:14:54.044] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client issia_kzh
+[22Mar2025 03:15:28.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[22Mar2025 03:15:28.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Mar2025 03:15:28.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Mar2025 03:15:28.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Mar2025 03:15:28.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Mar2025 03:15:29.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Mar2025 03:15:29.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[22Mar2025 03:15:29.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Mar2025 03:15:29.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_deep_void:deep_void
+[22Mar2025 03:15:29.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Mar2025 03:15:29.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Mar2025 03:15:29.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[22Mar2025 03:15:29.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Mar2025 03:15:29.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deep_void): All chunks are saved
+[22Mar2025 03:15:29.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Mar2025 03:15:29.754] [Server thread/INFO] [Framework/]: Unloading server configs...
+[22Mar2025 03:15:29.765] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[22Mar2025 03:15:29.794] [Server thread/INFO] [Framework/]: Finished unloading server configs
